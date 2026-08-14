@@ -6,7 +6,7 @@ class TextCleaner:
         if not text:
             return ""
 
-        text = self._normalize_whitespace(text)
+        text = self._remove_excessives_whitespace(text)
         text=self._normalize_newlines(text)
         if unwanthedpatterns :
             text=self._remove_unwanted_text(text, unwanthedpatterns)
@@ -26,7 +26,7 @@ class TextCleaner:
             if char == "\n" or char == "\t" or not char.isprintable()
         )
 
-    def _normalize_whitespace(self, text: str) -> str:
+    def _remove_excessives_whitespace(self, text: str) -> str:
         # Replace tabs with spaces
         text = text.replace("\t", " ")
 

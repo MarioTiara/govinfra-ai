@@ -15,6 +15,7 @@ Mengingat:
 1. Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
 2. Undang-Undang Nomor 38 Tahun 2004 tentang Jalan (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 132, Tambahan Lembaran Negara Republik Indonesia Nomor 4444) sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 2 Tahun 2022 tentang Perubahan Kedua atas Undang-Undang Nomor 38 Tahun 2004 tentang Jalan (Lembaran Negara Republik Indonesia Tahun 2022 Nomor 12, Tambahan Lembaran Negara Republik Indonesia Nomor 6760);
 3. Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 166, Tambahan Lembaran Negara Republik Indonesia Nomor 4916);
+
 4. Peraturan Pemerintah Nomor 34 Tahun 2006 tentang Jalan (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 86, Tambahan Lembaran Negara Republik Indonesia Nomor 4655);
 5. Peraturan Presiden Nomor 27 Tahun 2020 tentang Kementerian Pekerjaan Umum dan Perumahan Rakyat (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 40);
 6. Peraturan Menteri Pekerjaan Umum dan Perumahan Rakyat Nomor 13 Tahun 2020 tentang Organisasi dan Tata Kerja Kementerian Pekerjaan Umum dan Perumahan Rakyat (Berita Negara Republik Indonesia Tahun 2020 Nomor 473) sebagaimana telah diubah dengan Peraturan Menteri Pekerjaan Umum dan Perumahan Rakyat Nomor 11 Tahun 2022 tentang Perubahan atas Peraturan Menteri Pekerjaan Umum dan Perumahan Rakyat Nomor 13 Tahun 2020 tentang Organisasi dan Tata Kerja Kementerian Pekerjaan Umum dan Perumahan Rakyat (Berita Negara Republik Indonesia Tahun 2022 Nomor 1382);
@@ -31,6 +32,7 @@ Pasal 1 Dalam Peraturan Menteri ini yang dimaksud dengan:
 4. Persyaratan Teknis Jalan adalah ketentuan teknis untuk menjamin agar jalan dapat berfungsi secara optimal dalam melayani lalu lintas dan angkutan Jalan.
 5. Kriteria Perencanaan Teknis Jalan adalah ketentuan teknis yang menjadi dasar perencanaan teknis Jalan.
 6. Preservasi Jalan adalah kegiatan penanganan Jalan untuk mempertahankan kondisi Jalan agar tetap berfungsi secara optimal melayani lalu lintas hingga mencapai umur rencana.
+
 7. Keselamatan Jalan adalah pemenuhan fisik elemen Jalan terhadap persyaratan teknis Jalan dan kondisi lingkungan Jalan yang menghindarkan atau tidak menjadi sebab terjadinya kecelakaan lalu lintas.
 8. Jalur Penghentian Darurat adalah jalur yang disediakan pada Jalan yang memiliki turunan tajam dan panjang untuk keperluan darurat atau untuk memperlambat laju kendaraan jika mengalami kegagalan fungsi sistem pengereman.
 9. Lajur Pendakian adalah lajur yang digunakan untuk kendaraan berat berkecepatan rendah pada Jalan mendaki.
@@ -58,6 +60,7 @@ f. Bangunan Pelengkap Jalan;
 g. perlengkapan Jalan; 
 h. penggunaan Jalan sesuai dengan fungsinya; dan 
 i. ketidakterputusan.
+
 Bagian Kedua Kecepatan Rencana
 
 Pasal 4
@@ -82,6 +85,7 @@ Pasal 6
 (2) Jalur lalu lintas sebagaimana dimaksud pada ayat (1) diperuntukkan bagi kendaraan serta dapat dilengkapi dengan lajur khusus sepeda motor, lajur sepeda, dan lajur angkutan massal berbasis Jalan.
 (3) Dalam hal arus lalu lintas terdapat kendaraan berat berkecepatan rendah dengan komposisi tertentu, disediakan lajur pendakian.
 (4) Lebar jalur lalu lintas ditentukan berdasarkan Persyaratan Teknis Jalan yang tercantum dalam Tabel Persyaratan Teknis Jalan sebagaimana termuat dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+
 Pasal 7
 (1) Bahu Jalan sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf b merupakan suatu bagian dari Jalan yang berfungsi sebagai lajur darurat dan pendukung lateral konstruksi perkerasan Jalan.
 (2) Bahu Jalan sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:
@@ -105,6 +109,7 @@ a. marka garis tepi;
 b. bahu dalam; dan 
 c. bagian bangunan yang ditinggikan.
 (3) Lebar pemisah lajur diukur sesuai dengan jarak antarsisi dalam marka garis tepi.
+
 Bagian Keempat Kapasitas Jalan
 
 Pasal 10
@@ -127,6 +132,7 @@ Pasal 12
 (1) Persimpangan sebidang sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf e merupakan pertemuan 2 (dua) ruas Jalan atau lebih dalam 1 (satu) bidang.
 (2) Pengaturan lalu lintas pada persimpangan sebidang sebagaimana dimaksud pada ayat (1) dapat berupa pengaturan prioritas, pengaturan dengan bundaran, atau pengaturan dengan alat pemberi isyarat lalu lintas.
 (3) Dalam hal pengaturan dengan alat pemberi isyarat lalu lintas sebagaimana dimaksud pada ayat (2) sudah tidak mampu mengatasi permasalahan lalu lintas di persimpangan sebidang, penanganannya dilakukan melalui pembangunan persimpangan tak sebidang.
+
 (4) Jarak antarpersimpangan sebidang paling dekat ditentukan berdasarkan Persyaratan Teknis Jalan yang tercantum dalam Tabel Persyaratan Teknis Jalan sebagaimana termuat dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
 
 Bagian Ketujuh Bangunan Pelengkap Jalan
@@ -152,6 +158,7 @@ b. dilengkapi dengan lajur tepian dalam hal tidak terdapat bahu Jalan;
 c. dilengkapi trotoar untuk pejalan kaki dalam keadaan darurat dan untuk akses bagi petugas pemeliharaan; dan 
 d. pada Jalan arteri dan Jalan kolektor, lebar badan Jalan pada jembatan sama dengan lebar badan Jalan pada ruas Jalan di luar jembatan.
 (3) Jalur transisi dari ruas Jalan ke Jembatan harus memenuhi ketentuan mengenai geometrik Jalan.
+
 Pasal 16
 (1) Lintas atas sebagaimana dimaksud dalam Pasal 14 ayat (1) huruf b merupakan bangunan Jalan yang melintasi Jalan lalu lintas.
 (2) Lintas atas sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:
@@ -180,6 +187,7 @@ Pasal 20 Sebagai pendukung konstruksi Jalan, Bangunan Pelengkap Jalan sebagaiman
 a. saluran tepi Jalan; 
 b. gorong-gorong; dan 
 c. dinding penahan tanah.
+
 Pasal 21
 (1) Saluran tepi Jalan sebagaimana dimaksud dalam Pasal 20 huruf a merupakan saluran untuk menampung dan mengalirkan air hujan atau air yang ada di permukaan Jalan, bahu Jalan, daerah tangkapan air hujan dan jalur lainnya, serta air dari drainase di bawah muka Jalan di sepanjang ruas Jalan.
 (2) Saluran tepi Jalan sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:
@@ -209,6 +217,7 @@ b. jembatan penyeberangan pejalan kaki;
 c. terowongan penyeberangan pejalan kaki; 
 d. pulau Jalan; 
 e. trotoar;
+
 f. tempat parkir; 
 g. teluk bus; dan 
 h. jalur penghentian darurat.
@@ -239,6 +248,7 @@ d. lebar jalur pejalan kaki minimal 2,5 (dua koma lima) meter;
 e. tinggi ruang bagi pejalan kaki paling rendah 3 (tiga) meter; 
 f. terowongan penyeberangan pejalan kaki dilengkapi fasilitas yang memberikan kemudahan akses bagi penyandang disabilitas; dan 
 g. tersedia fasilitas sistem aliran udara dan drainase sesuai dengan kebutuhan.
+
 (3) Terowongan penyeberangan pejalan kaki sebagaimana dimaksud pada ayat (1) dapat dilengkapi dengan lajur sepeda.
 (4) Dalam hal terowongan penyeberangan pejalan kaki dilengkapi dengan lajur sepeda harus memenuhi Persyaratan Teknis Jalan sebagai berikut:
 a. dibangun dengan konstruksi yang sesuai dengan umur rencana; 
@@ -270,6 +280,7 @@ e. memperhatikan keselamatan pejalan kaki dan aksesibilitas bagi penyandang disa
 
 Pasal 30
 (1) Tempat parkir sebagaimana dimaksud dalam Pasal 24 huruf f merupakan bangunan yang diperuntukkan bagi kendaraan berhenti.
+
 (2) Tempat parkir sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:
 a. berada di luar badan Jalan untuk Jalan Arteri Primer dan/atau Kolektor Primer; 
 b. berada pada bahu Jalan untuk Jalan lokal dalam hal keterbatasan ruang; dan 
@@ -298,6 +309,7 @@ Pasal 33 Perlengkapan Jalan sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf g 
 Pasal 34
 (1) Perlengkapan Jalan yang berkaitan langsung dengan pengguna Jalan sebagaimana dimaksud dalam Pasal 33 terdiri atas:
 a. perlengkapan Jalan wajib; dan
+
 b. perlengkapan Jalan tidak wajib.
 (2) Perlengkapan Jalan wajib sebagaimana dimaksud pada ayat (1) huruf a terdiri atas:
 a. aturan perintah dan larangan yang dinyatakan dengan rambu Jalan, marka Jalan, dan alat pemberi isyarat lalu lintas; 
@@ -332,6 +344,7 @@ f. peredam suara dan g. tempat istirahat.
 Pasal 37
 (1) Pagar pengaman sebagaimana dimaksud dalam Pasal 36 huruf a berfungsi sebagai pelindung pengguna Jalan dari objek yang membahayakan lalu lintas.
 (2) Pagar pengaman sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:
+
 a. memiliki kemampuan untuk meminimalisasi kerusakan kendaraan dan fatalitas terhadap pengguna kendaraan; 
 b. dipasang pada tepi luar badan Jalan; dan 
 c. diberi warna dan tanda yang bersifat reflektif.
@@ -358,6 +371,7 @@ Pasal 40
 Pasal 41
 (1) Bangunan peredam silau sebagaimana dimaksud pada Pasal 36 huruf e berfungsi sebagai pelindung atau penghalang mata pengemudi dari silau sinar lampu kendaraan pada arah yang berlawanan.
 (2) Bangunan peredam silau sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan, yaitu ditempatkan di bagian tengah median pada lokasi yang berpotensi menimbulkan silau bagi pengemudi di Jalan Bebas Hambatan atau Jalan Raya.
+
 Pasal 42
 (1) Bangunan peredam suara sebagaimana dimaksud pada Pasal 36 huruf f berfungsi sebagai pelindung objek tertentu terhadap kebisingan akibat arus lalu lintas.
 (2) Bangunan peredam suara sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan, yaitu ditempatkan pada bagian paling luar ruang milik Jalan.
@@ -394,6 +408,7 @@ b. kemudahan dalam pelaksanaan;
 c. kenyamanan dan keselamatan; 
 d. keekonomisan; dan 
 e. estetika.
+
 (4) Dokumen rencana teknis sebagaimana dimaksud pada ayat (1) disusun oleh perencana teknis dan disetujui oleh penyelenggara Jalan sesuai dengan kewenangannya atau pejabat yang ditunjuk.
 
 Bagian Kedua Perencanaan Teknis Jalan
@@ -428,6 +443,7 @@ d. tidak memerlukan pemrioritasan pelaksanaan karena keterbatasan dana; dan/atau
 a. perumusan kebijakan perencanaan yang meliputi kajian terhadap kebijakan dan sasaran perencanaan, lingkungan dan penataan ruang, serta pengadaan tanah; 
 b. pengkajian terhadap kondisi eksisting pada wilayah studi, termasuk melakukan kajian terhadap dampak yang mungkin timbul untuk setiap solusi yang diusulkan; 
 c. pengambilan data fisik, ekonomi, dan lingkungan serta identifikasi lokasi rawan bencana; dan
+
 d. pengembangan dan perbandingan alternatif koridor untuk dipilih.
 (5) Studi kelayakan Jalan sebagaimana dimaksud pada ayat (2) huruf b meliputi:
 a. perumusan kebijakan perencanaan yang meliputi kajian terhadap kebijakan dan sasaran perencanaan, lingkungan dan penataan ruang, serta pengadaan tanah; 
@@ -456,6 +472,7 @@ e. konstruksi jembatan;
 f. perlengkapan Jalan pada jembatan; dan 
 g. kelestarian lingkungan hidup.
 (2) Perencanaan teknis jembatan sebagaimana dimaksud pada ayat (1) diatur secara terperinci dalam ketentuan teknis yang ditetapkan oleh Penyelenggara Jalan.
+
 Bagian Keempat Perencanaan Teknis Terowongan
 
 Pasal 51
@@ -496,6 +513,7 @@ b. kriteria perencanaan teknis Preservasi Jalan.
 (2) Dalam hal keterbatasan biaya, Persyaratan Teknis Jalan dalam Kriteria Perencanaan Teknis pembangunan Jalan baru dapat dilaksanakan secara bertahap.
 (3) Persyaratan Teknis Jalan dalam Kriteria Perencanaan Teknis Preservasi Jalan disesuaikan dengan kebutuhan dan sumber daya.
 (4)
+
 Bagian Kedua Kriteria Perencanaan Teknis Pembangunan Jalan Baru
 
 Pasal 54
@@ -537,6 +555,7 @@ a. Jalan kelas I;
 b. Jalan kelas II; 
 c. Jalan kelas III; dan 
 d. Jalan kelas khusus.
+
 Pasal 57 Ruang manfaat Jalan, ruang milik Jalan, dan ruang pengawasan Jalan sebagaimana dimaksud dalam Pasal 54 ayat (1) huruf c merupakan ukuran lebar yang ditetapkan sesuai dengan maksud perencanaan dan mengacu pada Tabel Persyaratan Teknis Jalan sebagaimana termuat dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
 
 Pasal 58
@@ -562,6 +581,7 @@ a. fungsi Jalan;
 b. kelas Jalan; 
 c. kecepatan rencana; dan 
 d. volume lalu lintas rencana.
+
 (2) Persyaratan geometrik Jalan sebagaimana dimaksud pada ayat (1) menjadi dasar penetapan Kriteria Perencanaan Teknis lainnya yang terdiri atas:
 a. tipe Jalan berdasarkan spesifikasi penyediaan prasarana Jalan; 
 b. jarak pandang henti; 
@@ -593,6 +613,7 @@ Pasal 66
 (2) Penerapan ruang bebas Jalan mempertimbangkan ketersediaan lahan.
 (3) Ruang bebas Jalan diukur mulai dari marka garis tepi terluar jalur lalu lintas dengan lebar sesuai dengan kecepatan rencana.
 (4) Penerapan ruang bebas Jalan berlaku pada daerah jurang atau lereng dengan kedalaman lebih dari 5 (lima) meter.
+
 Pasal 67
 (1) Kelestarian lingkungan hidup sebagaimana dimaksud dalam Pasal 54 ayat (1) huruf k merupakan kegiatan kajian lingkungan yang menghasilkan rekomendasi pengelolaan lingkungan hidup, yang dituangkan dalam dokumen lingkungan hidup.
 (2) Dokumen lingkungan hidup sebagaimana dimaksud pada ayat (1) dapat berupa:
@@ -620,6 +641,7 @@ Pasal 69
 a. kondisi elemen jembatan; dan 
 b. pengujian elemen struktur jembatan.
 (3) Selain Kriteria Perencanaan Teknis Preservasi jembatan sebagaimana dimaksud pada ayat (2), rehabilitasi jembatan direncanakan dengan mempertimbangkan pengembalian kondisi elemen jembatan untuk mencapai umur layan.
+
 BAB V KETENTUAN LAIN-LAIN
 
 Pasal 70
@@ -638,6 +660,7 @@ BAB VII KETENTUAN PENUTUP
 Pasal 72 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Pekerjaan Umum Nomor 19/PRT/M/2011 tentang Persyaratan Teknis Jalan dan Kriteria Perencanaan Teknis Jalan (Berita Negara Republik Indonesia Tahun 2011 Nomor 900), dicabut dan dinyatakan tidak berlaku.
 
 Pasal 73 Peraturan Menteri ini mulai berlaku pada tanggal diundangkan.
+
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Menteri ini dengan penempatannya dalam Berita Negara Republik Indonesia.
 
 Ditetapkan di Jakarta pada tanggal 17 Maret 2023
@@ -655,6 +678,7 @@ ttd
 ASEP N. MULYANA
 
 BERITA NEGARA REPUBLIK INDONESIA TAHUN 2023 NOMOR 372
+
 LAMPIRAN I PERATURAN MENTERI PEKERJAAN UMUM DAN PERUMAHAN RAKYAT NOMOR: 5 TAHUN 2023 TENTANG PERSYARATAN TEKNIS JALAN DAN PERENCANAAN TEKNIS JALAN
 
 I. PERSYARATAN TEKNIS JALAN UNTUK RUAS JALAN DALAM SISTEM JARINGAN JALAN PRIMER
@@ -672,15 +696,19 @@ LEBAR MEDIAN (LM) paling kecil, m (lebar median termasuk lebar bahu dalam, lebar
 
 Untuk VD ≤ 80 KpJ, Lebar bahu dalam = 1,00 m Untuk VD > 80 KpJ, Lebar bahu dalam = 1,50 m Median ditinggikan Untuk VD ≤ 60 Km/Jam, ada dua tipe:
 Tipe 1: Lebar median = 1,50 m; terdiri dari 0,50 m bahu dalam kiri 0,50 m median ditinggikan setinggi kereb; dan 0,50 m bahu dalam kanan
+
 FUNGSI JALAN Arteri dan Kolektor Lokal Arteri dan Kolektor Lokal Lokal dan Lingkungan Jalur Khusus Pesepeda Motor KELAS JALAN I, II, III, Khusus III I, II, III, Khusus II, III III SPESIFIKASI PENYEDIAAN PRASARANA JALAN JALAN RAYA (JLR) JALAN SEDANG (JSD) JALAN KECIL (JKC) TIPE JALAN 8/2-T 6/2-T 4/2-T 2/2-TT 2/2-TT 1/2-TT 1/1-TT Tipe 2: Lebar median = 1,80 m; terdiri dari 0,50 m bahu dalam kiri, 0,80 m median yang dipakai lapak penyeberang, dan 0,50 m bahu dalam kanan Untuk VD > 60 Km/Jam, ada satu tipe:
 Lebar Median Total = 2,00; terdiri dari bahu dalam kiri 0,75 m, median ditinggikan setinggi 1,10 m berupa penghalang beton 0,50 m, dan bahu dalam kanan 0,75 m LEBAR BADAN JALAN paling kecil, m Arteri 32,00 25,00 18,00 16,00 14,00 9,50 9,00 8,50 8,00 7,50 7,00 - - - Kolektor 32,00 25,00 18,00 16,00 14,00 9,50 9,00 8,50 8,00 7,50 7,00 - - - Lokal 32,00 25,00 18,00 16,00 14,00 9,50 9,00 8,50 8,00 7,50 7,00 5,50 5,00 3,50 Lingkungan - - - 9,50 9,00 8,50 8,00 7,50 7,00 5,50 5,00 2,25 PENAMPANG MELINTANG JALAN RUMAJA paling kecil, m Lebar, m 34,00 27,00 20,00 18,00 16,00 11,50 11,00 10,50 10,00 9,50 9,00 7,50 7,00 3,25 Tinggi, m 5,00 5,00 5,00 5,00 Dalam, m 1,50 1,50 1,50 1,50 RUMIJA paling kecil, m Rekonstruksi Jalan Eksisting 34,00 27,00 20,00 18,00 16,00 11,50 11,00 10,50 10,00 9,50 9,00 7,50 7,00 6,00 Jalan Baru 36,00 29,00 25,00 25,00 25,00 15,00 15,00 12,50 11,00 11,00 11,00 11,00 11,00 7,00 RUWASJA paling kecil, m Arteri 15,00 15,00 10,00 - - Kolektor 5,00 5,00 5,00 Lokal 3,00 3,00 3,00 Jalan Lingkungan 2,00 2,00 2,00 Jembatan 100,00 100,00 100,00 LEBAR SALURAN TEPI JALAN paling kecil, m 1,20 1,00 0,50 LEBAR AMBANG PENGAMAN paling kecil, m 1,00 atau sesuai kebutuhan 1,00 atau sesuai kebutuhan - - KEMIRINGAN NORMAL PERKERASAN JALAN, % 2,00 - 3,00 2,00 - 3,00 2,00 - 4,00 2,00 - 4,00 2,00 - 4,00 KEMIRINGAN BAHU JALAN, % 4,00 - 6,00 4,00 - 6,00 4,00 - 6,00 4,00 - 6,00
+
 FUNGSI JALAN Arteri dan Kolektor Lokal Arteri dan Kolektor Lokal Lokal dan Lingkungan Jalur Khusus Pesepeda Motor KELAS JALAN I, II, III, Khusus III I, II, III, Khusus II, III III SPESIFIKASI PENYEDIAAN PRASARANA JALAN JALAN RAYA (JLR) JALAN SEDANG (JSD) JALAN KECIL (JKC) TIPE JALAN 8/2-T 6/2-T 4/2-T 2/2-TT 2/2-TT 1/2-TT 1/1-TT ALINEMEN HORIZONTAL dan VERTIKAL JARAK ANTARBUKAAN LAJUR PEMISAH paling dekat Pada jalan arteri 1,00 Km dan pada jalan kolektor 0,50 Km - - - - JARAK ANTARPERSIMPANGAN SEBIDANG paling dekat Pada jalan arteri 3,00 Km dan pada jalan kolektor 0,50 Km - - - - SUPERELEVASI paling besar, % 8,00 8,00 8,00 8,00 KELANDAIAN ALINEMEN paling besar, % Alinemen Datar 5,00 6,00 6,00 6,00 Alinemen Bukit 6,00 7,00 10,00 12,00 12,00 Alinemen Gunung 10,00 10,00 15,00 15,00 15,00 JENIS PERKERASAN paling kecil Berpenutup Berpenutup Tanpa penutup Tanpa penutup Tanpa penutup
+
 II. PERSYARATAN TEKNIS JALAN UNTUK RUAS JALAN DALAM SISTEM JARINGAN JALAN SEKUNDER
 
 FUNGSI JALAN Arteri, Kolektor, Lokal Lokal Arteri dan Kolektor Lokal Lokal dan Lingkungan Jalur Khusus Pesepe da Motor KELAS (PENGGUNAAN) JALAN I, II, III, Khusus II - III I, II, III, Khusus II, III III SPESIFIKASI PENYEDIAAN PRASARANA JALAN JALAN RAYA JALAN SEDANG JALAN KECIL TIPE JALAN 8/2-T 6/2-T 4/2-T 4/2-TT 2/2-TT 2/2-TT 2/2-TT 1/1-TT LEBAR JALUR LALU LINTAS, m VD, KpJ 2 x 14,00 2 x 10,50 2 x 7,00 2 x 6,50 2 x 6,00 2 x 5,50 14,00 7,00 6,50 6,00 5,50 5,00 4,50 4,00 3,50 1,75 KAPASITAS RENCANA, SMP/Hari; paling tinggi Medan Datar 129.000 97.000 65.000 61.000 59.000 55.000 51.000 25.00 0 24.00 0 22.00 0 21.00 0 18.00 0 11.10 0 6.00 0 3.00 0 2.400 KECEPATAN RENCANA, KpJ Medan Datar 60 - 80 60 - 80 60 - 80 50 - 60 45 - 60 40 - 60 30 - 60 30 - 60 25 - 55 20 - 50 20 - 45 20 - 40 20 - 30 10 - 20 LEBAR BAHU LUAR paling kecil, m Rekonstruk si Jalan eksisting Bahu normal 1,00 1,00 0,50 0,25 Dengan Kereb dan Trotoar 0,25 (untuk marka garis tepi dan tali air) 0,25 (untuk marka garis tepi dan tali air) 0.25 Dengan Kereb+Trotoar+P arkir - 2,00 (parkir paralel) s.d.
 5,50 (parkir serong) 2,50 (parkir paralel) s.d. 5,50 (parkir serong) - Jalan baru Bahu normal 1,00 1,00 0,50 0,25 Dengan Kereb dan Trotoar 0,50 (untuk marka garis tepi dan tali air) 0,50 (untuk marka garis tepi dan tali air) 0,25 Dengan Kereb+Trotoar+P arkir - 2,50 (parkir paralel) s.d.
 6,50 (parkir serong) 2,50 (parkir paralel) s.d. 5,50 (parkir serong) - LEBAR MEDIAN (LM) paling kecil, m (lebar median termasuk lebar bahu dalam, lebar marka garis tepi termasuk bahu dalam) Median direndahkan Lebar median = 9,00 m, termasuk lebar bahu dalam - - Lebar bahu dalam = 1,00 m Median ditinggikan Untuk VD ≤ 60 Km/Jam, ada dua tipe:
 Tipe 1: Lebar median = 1,50 m; terdiri dari 0,50 m bahu dalam kiri 0,50 m median ditinggikan setinggi kereb; dan 0,50 m bahu dalam kanan Tipe 2: Lebar median = 1,80 m; terdiri dari 0,50 m bahu dalam kiri, 0,80 m median yang dipakai lapak penyeberang, dan 0,50 m bahu dalam kanan
+
 FUNGSI JALAN Arteri, Kolektor, Lokal Lokal Arteri dan Kolektor Lokal Lokal dan Lingkungan Jalur Khusus Pesepe da Motor KELAS (PENGGUNAAN) JALAN I, II, III, Khusus II - III I, II, III, Khusus II, III III SPESIFIKASI PENYEDIAAN PRASARANA JALAN JALAN RAYA JALAN SEDANG JALAN KECIL TIPE JALAN 8/2-T 6/2-T 4/2-T 4/2-TT 2/2-TT 2/2-TT 2/2-TT 1/1-TT Untuk VD > 60 Km/Jam, ada satu tipe:
 Lebar Median Total = 2,00; terdiri dari bahu dalam kiri 0,75 m, median ditinggikan setinggi 1,10 m berupa penghalang beton 0,50 m, dan bahu dalam kanan 0,75 m LEBAR BADAN JALAN paling kecil, m (lebar perkerasan jalur lalu lintas ditambah 0,25 m untuk menempatkan marka garis tepi) Arteri 32,00 25,00 18,00 17,00 16,00 14,00 16,50 9,50 9,00 8,50 8,00 7,50 7,00 - - - Kolektor 32,00 25,00 18,00 17,00 16,00 14,00 16,50 9,50 9,00 8,50 8,00 7,50 7,00 - - - Lokal 32,00 25,00 18,00 17,00 16,00 14,00 16,50 9,50 9,00 8,50 8,00 7,50 7,00 5,50 5,00 3,50 Lingkungan - - - - 16,50 9,50 9,00 8,50 8,00 7,50 7,00 5,50 5,00 2,25 PENAMPANG MELINTANG JALAN RUMAJA paling kecil, m Lebar, m 34,00 27,00 20,00 19,00 18,00 16,00 18,50 11,50 11,00 10,50 10,00 9,50 9,00 7,50 7,00 3,25 Tinggi, m 5,00 5,00 5,00 Dalam, m 1,50 1,50 1,50 RUMIJA paling kecil, m Rekonstruksi Jalan Eksisting 34,00 27,00 20,00 19,00 18,00 16,00 18,50 11,50 11,00 10,50 10,00 9,50 9,00 7,50 7,00 6,00 Jalan Baru 36,00 29,00 25,00 25,00 25,00 25,00 18,50 15,00 15,00 12,50 11,00 11,00 11,00 11,0 0 11,0 0 7,00 RUWASJA paling kecil, m Arteri 15,00 15,00 10,00 - -
 
@@ -695,7 +723,9 @@ Jembatan 100,00 100,00 100,00
 LEBAR SALURAN TEPI JALAN paling kecil, m 1,00 1,00 0,50 0,50 LEBAR AMBANG PENGAMAN paling kecil, m 1,00 1,00 1,00
 
 KEMIRINGAN NORMAL PERKERASAN JALAN, % 2,00 - 4,00 2,00 - 4,00 2,00 - 4,00 2,00 - 4,00
+
 FUNGSI JALAN Arteri, Kolektor, Lokal Lokal Arteri dan Kolektor Lokal Lokal dan Lingkungan Jalur Khusus Pesepe da Motor KELAS (PENGGUNAAN) JALAN I, II, III, Khusus II - III I, II, III, Khusus II, III III SPESIFIKASI PENYEDIAAN PRASARANA JALAN JALAN RAYA JALAN SEDANG JALAN KECIL TIPE JALAN 8/2-T 6/2-T 4/2-T 4/2-TT 2/2-TT 2/2-TT 2/2-TT 1/1-TT KEMIRINGAN BAHU JALAN, % 4,00 - 6,00 4,00 - 6,00 4,00 - 6,00 4,00 - 6,00 ALINEMEN HORIZONTAL dan VERTIKAL JARAK ANTARBUKAAN LAJUR PEMISAH paling dekat, m Pada jalan arteri paling sedikit 1,00 Km dan pada jalan kolektor paling sedikit 0,50 Km - - JARAK ANTARPERSIMPANGAN SEBIDANG paling dekat, km Pada jalan arteri 3,00 Km dan pada jalan kolektor 0,50 Km - - SUPERELEVASI paling besar, % 8,00 8,00 KELANDAI AN ALINEMEN paling besar, % Alinemen Datar 5,00 6,00 6,00 6,00 Alinemen Bukit 6,00 7,00 10,00 12,00 Alinemen Gunung 10,00 10,00 12,00 15,00 JENIS PERKERASAN paling kecil Berpenutup Berpenutup Berpenutup Tanpa penutup
+
 III. PERSYARATAN TEKNIS JALAN UNTUK RUAS JALAN BEBAS HAMBATAN
 
 Status: Jalan Nasional/JBH/Jalan Tol ANTARKOTA KOTA SPESIFIKASI PENYEDIAAN PRASARANA JALAN JALAN BEBAS HAMBATAN JALAN BEBAS HAMBATAN FUNGSI DAN KELAS PENGGUNAAN JALAN Arteri (Kelas I, II, III, Khusus) Arteri (Kelas I, II, III, Khusus) Kolektor (Kelas I, II, III) Kolektor (Kelas I, II, III) TIPE JALAN PALING KECIL 8/2-T 6/2-T 4/2-T 8/2-T 6/2-T 4/2-T LHRT DESAIN (SMP/Hari) ≤ Nilai tabel (75% Kapasitas) Medan Datar ≤ 156.000 ≤ 117.000 ≤ 78.000 ≤ 156.000 ≤ 117.000 ≤ 78.000 Medan Bukit ≤ 153.000 ≤ 115.000 ≤ 77.000 - Medan Gunung ≤ 146.000 ≤ 110.000 ≤ 75.000 KECEPATAN DESAIN, VD, (Km/Jam) Medan Datar 80 - 120 60 - 100 Medan Bukit 70  Medan Gunung 60 - 100 LEBAR JALUR LALU LINTAS, m VD ≤ 80 KpJ 2 x 14,00 2 x 10,50 2 x 7,00 2 x 14,00 2 x 10,50 2 x 7,00 VD > 80 KpJ 2 x 15,00 2 x 11,25 2 x 7,50 2 x 15,00 2 x 11,25 2 x 7,50 LEBAR BAHU LUAR paling kecil, m Semua Medan 3,00 2,00 LEBAR MEDIAN paling kecil, m (lebar median termasuk lebar kedua bahu dalam dan bangunan median; Marka garis tepi berada di dalam bahu dalam) Median direndahkan 9,00 dengan bahu dalam 1,0m untuk VD≤80KpJ atau 1,50m untuk VD>80KpJ - Median ditinggikan 2,80 untuk VD ≤ 80 Km/Jam, median ditinggikan setinggi kereb dan dilengkapi rel pengaman. Ukuran sebagai berikut:
@@ -711,7 +741,9 @@ Lebar bangunan pemisah setinggi 1,10 m = 0,80 m.
 Lebar bahu dalam = 1,50 m;
 Lebar bangunan pemisah setinggi 1,10 m = 0,80 m.
 BADAN JALAN paling kecil, m untuk VD ≤ 80KpJ Arteri 37,30 30,30 23,30 35,30 28,30 21,30 Kolektor 37,30 30,30 23,30 35,30 28,30 21,30 BADAN JALAN paling kecil, m untuk VD > 80KpJ Arteri 40,30 32,80 25,30 37,30 29,80 22,30 Kolektor 40,30 32,80 25,30 37,30 29,80 22,30 PENAMPA NG MELINTAN G JALAN RUMAJA paling kecil, m Lebar, m 40,30 33,30 26,30 38,30 31,30 24,30 Tinggi, m 5,00 5,00 Dalam, m 1,50 1,50 RUMIJA paling kecil, m Lebar, m 45,00 38,00 30,00 45,00 38,00 30,00 RUWASJA paling kecil, m Arteri 15,00 atau sesuai kebutuhan 15,00 atau sesuai kebutuhan Kolektor 10,00 atau sesuai kebutuhan 10,00 atau sesuai kebutuhan Jembatan 100,00 100,00
+
 Status: Jalan Nasional/JBH/Jalan Tol ANTARKOTA KOTA SPESIFIKASI PENYEDIAAN PRASARANA JALAN JALAN BEBAS HAMBATAN JALAN BEBAS HAMBATAN FUNGSI DAN KELAS PENGGUNAAN JALAN Arteri (Kelas I, II, III, Khusus) Arteri (Kelas I, II, III, Khusus) Kolektor (Kelas I, II, III) Kolektor (Kelas I, II, III) LEBAR SALURAN TEPI JALAN paling kecil, m 1,20 atau sesuai kebutuhan 1,20 atau sesuai kebutuhan LEBAR AMBANG PENGAMAN paling kecil, m 1,00 atau sesuai kebutuhan 1,00 atau sesuai kebutuhan KEMIRINGAN NORMAL PERKERASAN JALAN, % 2,00 s.d. 3,00 2,00 s.d. 3,00 KEMIRINGAN BAHU JALAN paling besar, % 5,00 5,00 ALINEMEN HORIZONT AL JARAK ANTARSIMPANG TAK SEBIDANG paling dekat, km 5,00 5,00 SUPERELEVASI paling besar, % 8,00 8,00 ALINEMEN VERTIKAL KELANDAIAN ALINEMEN paling besar, % Alinemen Datar 4,00 4,00 Alinemen Bukit 5,00 5,00 Alinemen Gunung 6,00 6,00 JENIS PERKERASAN Berpenutup Aspal/Beton Berpenutup Aspal/Beton
+
 III. PERSYARATAN TEKNIS UNTUK BANGUNAN PELENGKAP JALAN YANG BERFUNGSI SEBAGAI JALUR LALU LINTAS
 
 Persyaratan Teknis Jembatan Lintas Atas/Jalan Layang/Elevated Road Terowongan Standar Khusus Standar Khusus Standar (termasuk Lintas Bawah/ Underpass) Khusus MASA LAYAN, tahun 75 100 75 100 75 100 KETENTUAN − panjang bentang kurang dari 100 m;
@@ -727,7 +759,9 @@ Persyaratan Teknis Jembatan Lintas Atas/Jalan Layang/Elevated Road Terowongan St
 total panjang kurang dari 3.000 m total panjang lebih dari 3.000 m panjang bagian tertutup kurang dari 200 m − panjang bagian tertutup lebih dari 200 m;
 − terowongan jalan yang memiliki kompleksitas struktur tinggi atau memiliki nilai strategis tinggi atau didesain menggunakan teknologi baru.
 KELENGKAPAN sistem drainase, ruang penempatan utilitas, fasilitas pemeliharaan, trotoar, dan pagar pengaman sistem drainase, ruang penempatan utilitas, sistem aliran udara buatan, sistem penerangan Jalan umum, dan fasilitas untuk keadaan darurat PANJANG KONSTRUKSI, m - 5.000 - 10.000 - 5.000 - 10.000 - minimal 500
+
 Persyaratan Teknis Jembatan Lintas Atas/Jalan Layang/Elevated Road Terowongan Standar Khusus Standar Khusus Standar (termasuk Lintas Bawah/ Underpass) Khusus TEMPAT BERHENTI DARURAT FASILITAS - pintu darurat dengan jalur evakuasi, pemadam kebakaran, dan air/hidran - pintu darurat dengan jalur evakuasi, pemadam kebakaran, dan air/hidran - pintu darurat dengan jalur evakuasi, pemadam kebakaran, dan air/hidran LEBAR BADAN JALAN lebar badan Jalan pada bangunan pelengkap sama dengan lebar badan Jalan pada ruas Jalan yang dihubungkannya TROTOAR, m minimal 0,5 minimal 1,5 (jika dibutuhkan) minimal 1 (jika dibutuhkan) - minimal 0,5 (jalan untuk maintenance) KELANDAIAN MAKSIMUM 5% KEMIRINGAN MELINTANG minimal 2% pada permukaan perkerasan lantai bangunan pelengkap JALAN PENDEKAT PANJANG MINIMUM, m mengikuti persyaratan geometrik Jalan pada badan Jalan KELANDAIAN MAKSIMUM, % mengikuti persyaratan geometrik Jalan pada badan Jalan BAHU JALAN Sistem Jaringan Jalan Primer mengikuti persyaratan geometrik Jalan pada badan Jalan Sistem Jaringan Jalan Sekunder menggunakan lajur tepian dengan perkerasan berpenutup minimal 0,5 meter RUANG BEBAS VERTIKAL, paling sedikit untuk lalu lintas, m 5,1 menyesuaikan hambatan yang dilewati - untuk air, m 0,5; untuk aliran yang dapat dikontrol/saluran irigasi (dihitung dari bearing jembatan) - - 1,0; untuk aliran yang tidak membawa hanyutan (dihitung dari bearing jembatan) 1,5; untuk aliran yang membawa hanyutan (dihitung dari bearing jembatan) Menyesuaikan kebutuhan kapal yang melintas di bawah jembatan
+
 Persyaratan Teknis Jembatan Lintas Atas/Jalan Layang/Elevated Road Terowongan Standar Khusus Standar Khusus Standar (termasuk Lintas Bawah/ Underpass) Khusus RUANG PENGAWASAN JALAN PADA DAERAH ALIRAN SUNGAI paling sedikit, m 100, arah hulu dan hilir - -
 
 MENTERI PEKERJAAN UMUM DAN PERUMAHAN RAKYAT REPUBLIK INDONESIA,
@@ -735,14 +769,21 @@ MENTERI PEKERJAAN UMUM DAN PERUMAHAN RAKYAT REPUBLIK INDONESIA,
 ttd
 
 M. BASUKI HADIMULJONO
+
 LAMPIRAN II PERATURAN MENTERI PEKERJAAN UMUM DAN PERUMAHAN RAKYAT NOMOR 5 TAHUN 2023 TENTANG PERSYARATAN TEKNIS JALAN DAN PERENCANAAN TEKNIS JALAN
 
 I. ILUSTRASI KONFIGURASI BADAN JALAN TIPIKAL PENAMPANG MELINTANG DAN RUANG JALAN JALAN RAYA 4/2-T, DENGAN MEDIAN DITINGGIKAN
+
 II. ILUSTRASI KONFIGURASI POTONGAN MELINTANG SISTEM JARINGAN JALAN PRIMER JALAN SEDANG, 2/2-TT
+
 III. ILUSTRASI KONFIGURASI POTONGAN MELINTANG SISTEM JARINGAN JALAN SEKUNDER JALAN SEDANG, 2/2-TT
+
 IV. ILUSTRASI KONFIGURASI POTONGAN MELINTANG SISTEM JARINGAN JALAN PRIMER, JALAN RAYA, 4/2-T, DENGAN MEDIAN YANG DIRENDAHKAN (GALIAN)
+
 V. ILUSTRASI KONFIGURASI POTONGAN MELINTANG JALAN BEBAS HAMBATAN, JALAN ANTARKOTA, 4/2-T, DENGAN MEDIAN YANG DITINGGIKAN (TIMBUNAN)
+
 VI. ILUSTRASI KONFIGURASI POTONGAN MELINTANG SISTEM JARINGAN JALAN PRIMER, JALAN RAYA, 4/2-T, PADA DAERAH TIKUNGAN (SUPERELEVASI)
+
 VII. ILUSTRASI KONFIGURASI POTONGAN MELINTANG SISTEM JARINGAN JALAN PRIMER JALAN SEDANG, 2/2-TT, DI JEMBATAN
 
  MENTERI PEKERJAAN UMUM DAN PERUMAHAN RAKYAT REPUBLIK INDONESIA,
@@ -750,3 +791,4 @@ VII. ILUSTRASI KONFIGURASI POTONGAN MELINTANG SISTEM JARINGAN JALAN PRIMER JALAN
 ttd
 
 M. BASUKI HADIMULJONO
+

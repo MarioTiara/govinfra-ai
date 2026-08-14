@@ -1,0 +1,3541 @@
+{
+    "type": "document",
+    "number": null,
+    "title": null,
+    "text": "",
+    "children": [
+        {
+            "type": "menimbang",
+            "number": null,
+            "title": null,
+            "text": "",
+            "children": []
+        },
+        {
+            "type": "huruf",
+            "number": "a",
+            "title": null,
+            "text": "bahwa untuk melaksanakan ketentuan dalam Pasal 24 dan Pasal 86 Peraturan Pemerintah Nomor 34 tahun 2006 tentang Jalan dan untuk mewujudkan jalan yang memenuhi ketentuan keamanan, keselamatan, kelancaran arus penumpang dan barang, dan jaringan jalan yang berkelanjutan perlu disusun ketentuan mengenai persyaratan teknis jalan dan perencanaan teknis jalan;",
+            "children": []
+        },
+        {
+            "type": "huruf",
+            "number": "b",
+            "title": null,
+            "text": "bahwa Peraturan Menteri Pekerjaan Umum Nomor 19/PRT/M/2011 tentang Persyaratan Teknis Jalan dan Kriteria Perencanaan Teknis Jalan sudah tidak sesuai dengan kebutuhan pengaturan sehingga perlu diganti;",
+            "children": []
+        },
+        {
+            "type": "huruf",
+            "number": "c",
+            "title": null,
+            "text": "bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Menteri Pekerjaan Umum dan Perumahan Rakyat tentang Persyaratan Teknis Jalan dan Perencanaan Teknis Jalan;",
+            "children": [
+                {
+                    "type": "mengingat",
+                    "number": null,
+                    "title": null,
+                    "text": "",
+                    "children": []
+                },
+                {
+                    "type": "memutuskan",
+                    "number": null,
+                    "title": null,
+                    "text": "",
+                    "children": []
+                },
+                {
+                    "type": "menetapkan",
+                    "number": null,
+                    "title": null,
+                    "text": "",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "bab",
+            "number": "I",
+            "title": "KETENTUAN UMUM",
+            "text": "",
+            "children": [
+                {
+                    "type": "pasal",
+                    "number": "2",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Persyaratan Teknis Jalan dan Perencanaan Teknis Jalan diberlakukan untuk Jalan Umum dalam pembangunan Jalan baru dan Preservasi Jalan.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Perencanaan Teknis Jalan sebagaimana dimaksud pada ayat (1) dilakukan berdasarkan pada Kriteria Perencanaan Teknis Jalan agar Jalan yang direncanakan memenuhi Persyaratan Teknis Jalan.",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "bab",
+            "number": "II",
+            "title": "PERSYARATAN TEKNIS JALAN",
+            "text": "",
+            "children": [
+                {
+                    "type": "ayat",
+                    "number": "1",
+                    "title": null,
+                    "text": "Jalan harus memenuhi Persyaratan Teknis Jalan.",
+                    "children": []
+                },
+                {
+                    "type": "ayat",
+                    "number": "2",
+                    "title": null,
+                    "text": "Persyaratan Teknis Jalan sebagaimana dimaksud pada ayat (1) terdiri atas:",
+                    "children": [
+                        {
+                            "type": "huruf",
+                            "number": "a",
+                            "title": null,
+                            "text": "kecepatan rencana;",
+                            "children": []
+                        },
+                        {
+                            "type": "huruf",
+                            "number": "b",
+                            "title": null,
+                            "text": "lebar badan Jalan;",
+                            "children": []
+                        },
+                        {
+                            "type": "huruf",
+                            "number": "c",
+                            "title": null,
+                            "text": "kapasitas Jalan;",
+                            "children": []
+                        },
+                        {
+                            "type": "huruf",
+                            "number": "d",
+                            "title": null,
+                            "text": "Jalan masuk;",
+                            "children": []
+                        },
+                        {
+                            "type": "huruf",
+                            "number": "e",
+                            "title": null,
+                            "text": "persimpangan sebidang;",
+                            "children": []
+                        },
+                        {
+                            "type": "huruf",
+                            "number": "f",
+                            "title": null,
+                            "text": "Bangunan Pelengkap Jalan;",
+                            "children": []
+                        },
+                        {
+                            "type": "huruf",
+                            "number": "g",
+                            "title": null,
+                            "text": "perlengkapan Jalan;",
+                            "children": []
+                        },
+                        {
+                            "type": "huruf",
+                            "number": "h",
+                            "title": null,
+                            "text": "penggunaan Jalan sesuai dengan fungsinya; dan",
+                            "children": []
+                        },
+                        {
+                            "type": "huruf",
+                            "number": "i",
+                            "title": null,
+                            "text": "ketidakterputusan.",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "4",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Kecepatan rencana sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf a merupakan kecepatan kendaraan yang mendasari Perencanaan Teknis Jalan.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Kecepatan rencana sebagaimana dimaksud pada ayat (1) harus memenuhi Perencanaan Teknis Jalan dengan mempertimbangkan minimal fungsi Jalan, kelas Jalan, dan kapasitas rencana.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "3",
+                            "title": null,
+                            "text": "Kecepatan rencana ditentukan berdasarkan Persyaratan Teknis Jalan yang tercantum dalam Tabel Persyaratan Teknis Jalan sebagaimana termuat dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "4",
+                            "title": null,
+                            "text": "Dalam hal kecepatan rencana menurut Persyaratan Teknis Jalan tidak terpenuhi, kecepatan rencana dapat diturunkan atas dasar pertimbangan keselamatan.",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "5",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Lebar badan Jalan sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf b merupakan ukuran dari bagian ruang manfaat Jalan yang terdiri atas:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "jalur lalu lintas;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "bahu Jalan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "median; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "pemisah lajur.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Lebar badan Jalan sebagaimana dimaksud pada ayat (1) ditentukan dengan mempertimbangkan minimal fungsi Jalan, kelas Jalan, dan kapasitas rencana.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "3",
+                            "title": null,
+                            "text": "Lebar badan Jalan ditentukan berdasarkan Persyaratan Teknis Jalan yang tercantum dalam Tabel Persyaratan Teknis Jalan dan Ilustrasi Konfigurasi Potongan Melintang Badan Jalan sebagaimana termuat dalam Lampiran I dan Lampiran III yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "6",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Jalur lalu lintas sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf a merupakan suatu bagian dari Jalan yang digunakan oleh lalu lintas kendaraan, baik 1 (satu) arah maupun 2 (dua) arah dan terdiri atas minimal 1 (satu) lajur lalu lintas.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Jalur lalu lintas sebagaimana dimaksud pada ayat (1) diperuntukkan bagi kendaraan serta dapat dilengkapi dengan lajur khusus sepeda motor, lajur sepeda, dan lajur angkutan massal berbasis Jalan.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "3",
+                            "title": null,
+                            "text": "Dalam hal arus lalu lintas terdapat kendaraan berat berkecepatan rendah dengan komposisi tertentu, disediakan lajur pendakian.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "4",
+                            "title": null,
+                            "text": "Lebar jalur lalu lintas ditentukan berdasarkan Persyaratan Teknis Jalan yang tercantum dalam Tabel Persyaratan Teknis Jalan sebagaimana termuat dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "7",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Bahu Jalan sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf b merupakan suatu bagian dari Jalan yang berfungsi sebagai lajur darurat dan pendukung lateral konstruksi perkerasan Jalan.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Bahu Jalan sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "muka perkerasan bahu Jalan rata dengan muka perkerasan lajur lalu lintas;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "diperkeras dengan perkerasan tidak berpenutup atau berpenutup yang berkekuatan tidak boleh kurang dari 10% lalu lintas lajur rencana, atau sama dengan lalu lintas yang diperkirakan akan menggunakan bahu Jalan (diambil yang terbesar);",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "pada Jalan Bebas Hambatan harus diperkeras seluruhnya dengan perkerasan berpenutup lebih besar dari 60% (enam puluh persen) dari kekuatan perkerasan lajur lalu lintas yang berdasarkan perhitungan beban; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "diberi kemiringan melintang untuk menyalurkan air hujan yang mengalir melalui permukaan bahu Jalan.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "3",
+                            "title": null,
+                            "text": "Lebar bahu Jalan ditentukan berdasarkan Persyaratan Teknis Jalan yang tercantum dalam Tabel Persyaratan Teknis Jalan sebagaimana termuat dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "8",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Median sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf c merupakan bagian dari Jalan Bebas Hambatan dan Jalan raya yang berfungsi untuk memisahkan arus lalu lintas yang berlawanan arah.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Median sebagaimana dimaksud pada ayat (1) meliputi:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "median yang ditinggikan; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "median yang direndahkan.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "3",
+                            "title": null,
+                            "text": "Lebar median Jalan ditentukan berdasarkan Persyaratan Teknis Jalan yang tercantum dalam Tabel Persyaratan Teknis Jalan sebagaimana termuat dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "9",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Pemisah lajur sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf d merupakan bagian Jalan yang digunakan untuk memisahkan arus lalu lintas searah yang memiliki perbedaan fungsi Jalan, kelas Jalan, kecepatan rencana, kecepatan operasional, dan/atau peruntukan jenis kendaraan yang diizinkan beroperasi.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Pemisah lajur sebagaimana dimaksud pada ayat (1) terdiri atas:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "marka garis tepi;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "bahu dalam; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "bagian bangunan yang ditinggikan.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "3",
+                            "title": null,
+                            "text": "Lebar pemisah lajur diukur sesuai dengan jarak antarsisi dalam marka garis tepi.",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "10",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Kapasitas Jalan sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf c merupakan kemampuan maksimum suatu ruas Jalan untuk melayani arus lalu lintas.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Nilai kapasitas rencana suatu ruas Jalan untuk setiap tipe Jalan berdasarkan Persyaratan Teknis Jalan yang tercantum dalam Tabel Persyaratan Teknis Jalan sebagaimana termuat dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "11",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Jalan masuk sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf d merupakan bukaan dari jalur lambat ke jalur utama.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Jalur utama sebagaimana dimaksud pada ayat (1) merupakan Jalan arteri sekunder atau Jalan kolektor sekunder.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "3",
+                            "title": null,
+                            "text": "Jalur lambat sebagaimana dimaksud pada ayat (1) merupakan jalur yang sejajar dengan jalur utama yang terletak di samping kiri dan/atau samping kanannya dan dibatasi oleh jalur pemisah yang dilengkapi bukaan dengan jarak antarbukaan tertentu.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "4",
+                            "title": null,
+                            "text": "Jalur lambat sebagaimana dimaksud pada ayat (1) berfungsi untuk memfasilitasi kendaraan dari Jalan lokal, Jalan lingkungan, atau akses persil menuju jalur utama.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "5",
+                            "title": null,
+                            "text": "Jarak antarbukaan dari jalur lambat ke jalur utama ditentukan berdasarkan Persyaratan Teknis Jalan yang tercantum dalam Tabel Persyaratan Teknis Jalan sebagaimana termuat dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "6",
+                            "title": null,
+                            "text": "Jarak antarbukaan dari jalur lambat ke jalur utama sebagaimana dimaksud pada ayat (5) dapat ditentukan lain atas persetujuan penyelenggara Jalan.",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "12",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Persimpangan sebidang sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf e merupakan pertemuan 2 (dua) ruas Jalan atau lebih dalam 1 (satu) bidang.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Pengaturan lalu lintas pada persimpangan sebidang sebagaimana dimaksud pada ayat (1) dapat berupa pengaturan prioritas, pengaturan dengan bundaran, atau pengaturan dengan alat pemberi isyarat lalu lintas.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "3",
+                            "title": null,
+                            "text": "Dalam hal pengaturan dengan alat pemberi isyarat lalu lintas sebagaimana dimaksud pada ayat (2) sudah tidak mampu mengatasi permasalahan lalu lintas di persimpangan sebidang, penanganannya dilakukan melalui pembangunan persimpangan tak sebidang.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "4",
+                            "title": null,
+                            "text": "Jarak antarpersimpangan sebidang paling dekat ditentukan berdasarkan Persyaratan Teknis Jalan yang tercantum dalam Tabel Persyaratan Teknis Jalan sebagaimana termuat dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "14",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Sebagai jalur lalu lintas, Bangunan Pelengkap Jalan sebagaimana dimaksud dalam Pasal 13 berupa:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "jembatan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "lintas atas;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "lintas bawah;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "terowongan; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "e",
+                                    "title": null,
+                                    "text": "jalan layang (2) Berdasarkan aspek kompleksitas struktur dan teknologi, Bangunan Pelengkap Jalan sebagaimana dimaksud pada ayat (1) terdiri atas:",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "Bangunan Pelengkap Jalan standar; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "Bangunan Pelengkap Jalan khusus.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "3",
+                            "title": null,
+                            "text": "Persyaratan Teknis Bangunan Pelengkap Jalan sebagaimana dimaksud pada ayat (2) diatur secara terperinci dalam Tabel Persyaratan Teknis Bangunan Pelengkap Jalan yang berfungsi sebagai jalur lalu lintas sebagaimana termuat dalam Lampiran IV yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "15",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Jembatan sebagaimana dimaksud dalam Pasal 14 ayat (1) huruf a merupakan bangunan Jalan yang melintasi sungai, melintasi lembah, atau menghubungkan 2 (dua) bukit.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Jembatan sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "memiliki lebar jalur lalu lintas yang sama dengan lebar jalur lalu lintas pada ruas Jalan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "dilengkapi dengan lajur tepian dalam hal tidak terdapat bahu Jalan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "dilengkapi trotoar untuk pejalan kaki dalam keadaan darurat dan untuk akses bagi petugas pemeliharaan; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "pada Jalan arteri dan Jalan kolektor, lebar badan Jalan pada jembatan sama dengan lebar badan Jalan pada ruas Jalan di luar jembatan.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "3",
+                            "title": null,
+                            "text": "Jalur transisi dari ruas Jalan ke Jembatan harus memenuhi ketentuan mengenai geometrik Jalan.",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "16",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Lintas atas sebagaimana dimaksud dalam Pasal 14 ayat (1) huruf b merupakan bangunan Jalan yang melintasi Jalan lalu lintas.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Lintas atas sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "dilengkapi dengan lajur tepian dalam hal tidak terdapat bahu Jalan; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "dilengkapi trotoar untuk pejalan kaki dalam keadaan darurat dan untuk akses bagi petugas pemeliharaan.",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "17",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Lintas bawah sebagaimana dimaksud dalam Pasal 14 ayat (1) huruf c merupakan bangunan Jalan yang melintas di bawah Jalan yang lain.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Lintas bawah sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "dilengkapi dengan lajur tepian dalam hal tidak terdapat bahu Jalan; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "dilengkapi trotoar untuk pejalan kaki dalam keadaan darurat dan untuk akses bagi petugas pemeliharaan.",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "18",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Terowongan sebagaimana dimaksud dalam Pasal 14 ayat (1) huruf d merupakan bangunan Jalan yang melintas di bawah permukaan tanah.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Terowongan sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "memiliki ruang yang memadai untuk dapat menampung semua fasilitas terowongan; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "dilengkapi trotoar untuk pejalan kaki dalam keadaan darurat dan untuk akses bagi petugas pemeliharaan.",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "19",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Jalan layang sebagaimana dimaksud dalam Pasal 14 ayat (1) huruf e merupakan bangunan Jalan yang melintas di atas permukaan tanah.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Jalan layang sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "dilengkapi dengan lajur tepian dalam hal tidak terdapat bahu Jalan; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "dilengkapi dengan trotoar untuk pejalan kaki dalam keadaan darurat dan untuk akses bagi petugas pemeliharaan.",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "saluran tepi Jalan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "gorong-gorong; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "dinding penahan tanah.",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "21",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Saluran tepi Jalan sebagaimana dimaksud dalam Pasal 20 huruf a merupakan saluran untuk menampung dan mengalirkan air hujan atau air yang ada di permukaan Jalan, bahu Jalan, daerah tangkapan air hujan dan jalur lainnya, serta air dari drainase di bawah muka Jalan di sepanjang ruas Jalan.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Saluran tepi Jalan sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "berupa galian tanah biasa atau diperkeras;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "dalam hal saluran tepi jalan berfungsi sebagai bagian dari ruang bebas Jalan, kemiringannya disesuaikan dengan konsep Jalan berkeselamatan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "berupa saluran tepi Jalan tipe tertutup untuk wilayah yang banyak dilalui pejalan kaki; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "memiliki dimensi dengan kemampuan mengalirkan debit air maksimal.",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "22",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Gorong-gorong sebagaimana dimaksud dalam Pasal 20 huruf b merupakan saluran air yang melintang di bawah permukaan Jalan yang berfungsi mengalirkan air dari saluran tepi Jalan yang satu ke saluran tepi Jalan yang lainnya.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Gorong-gorong sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "memiliki usia pelayanan minimal 20 (dua puluh) tahun;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "mudah pemeliharaannya; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "konstruksi kepala gorong-gorong tidak membahayakan pengguna Jalan.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "3",
+                            "title": null,
+                            "text": "Dalam hal gorong-gorong difungsikan juga sebagai penampung air dari drainase/saluran alam lingkungan, dimensi goronggorong harus mempertimbangkan volume air tambahan yang ditampung.",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "23",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Dinding penahan tanah sebagaimana dimaksud dalam Pasal 20 huruf c merupakan bangunan yang digunakan untuk menyokong dan/atau melindungi badan Jalan yang berada di lereng atau di bawah permukaan badan Jalan yang mampu menahan beban.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Dinding penahan tanah sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "berupa struktur penahan tanah yang memiliki kekuatan sesuai dengan umur rencana;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "mudah pemeliharaannya; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "dilengkapi sistem drainase.",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "gerbang tol;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "jembatan penyeberangan pejalan kaki;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "terowongan penyeberangan pejalan kaki;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "pulau Jalan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "e",
+                                    "title": null,
+                                    "text": "trotoar;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "f",
+                                    "title": null,
+                                    "text": "tempat parkir;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "g",
+                                    "title": null,
+                                    "text": "teluk bus; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "h",
+                                    "title": null,
+                                    "text": "jalur penghentian darurat.",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "25",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Gerbang Tol sebagaimana dimaksud dalam Pasal 24 huruf a merupakan bangunan gardu yang diperuntukkan bagi kendaraan pengguna Jalan tol membayar biaya tol.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Gerbang Tol sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "memiliki peralatan dan bangunan tempat pembayaran sesuai dengan metode yang berlaku dan lajur lalu lintas kendaraan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "memiliki kekuatan bangunan untuk melayani pembayaran Jalan tol selama masa konsesi; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "dilengkapi dengan perlengkapan Jalan untuk keselamatan lalu lintas.",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "26",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Jembatan penyeberangan pejalan kaki sebagaimana dimaksud dalam Pasal 24 huruf b merupakan bangunan jembatan yang diperuntukkan bagi pejalan kaki untuk menyeberang dari satu sisi Jalan ke sisi Jalan yang lainnya.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Jembatan penyeberangan pejalan kaki sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "memiliki umur rencana minimal 75 (tujuh puluh lima) tahun;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "dilengkapi dengan pagar;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "dilengkapi dengan penerangan yang memadai;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "dilengkapi dengan tangga dan bordes serta fasilitas yang memberikan kemudahan akses bagi penyandang disabilitas; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "e",
+                                    "title": null,
+                                    "text": "ditempatkan pada lokasi yang sesuai dengan kebutuhan pejalan kaki.",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "27",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Terowongan penyeberangan pejalan kaki sebagaimana dimaksud dalam Pasal 24 huruf c merupakan bangunan terowongan melintang di bawah permukaan Jalan yang diperuntukkan bagi pejalan kaki yang menyeberang dari satu sisi Jalan ke sisi Jalan yang lainnya.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Terowongan penyeberangan pejalan kaki sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "dibangun dengan konstruksi yang sesuai dengan umur rencana;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "mudah pemeliharaannya;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "dilengkapi dengan penerangan yang memadai;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "lebar jalur pejalan kaki minimal 2,5 (dua koma lima) meter;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "e",
+                                    "title": null,
+                                    "text": "tinggi ruang bagi pejalan kaki paling rendah 3 (tiga) meter;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "f",
+                                    "title": null,
+                                    "text": "terowongan penyeberangan pejalan kaki dilengkapi fasilitas yang memberikan kemudahan akses bagi penyandang disabilitas; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "g",
+                                    "title": null,
+                                    "text": "tersedia fasilitas sistem aliran udara dan drainase sesuai dengan kebutuhan.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "3",
+                            "title": null,
+                            "text": "Terowongan penyeberangan pejalan kaki sebagaimana dimaksud pada ayat (1) dapat dilengkapi dengan lajur sepeda.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "4",
+                            "title": null,
+                            "text": "Dalam hal terowongan penyeberangan pejalan kaki dilengkapi dengan lajur sepeda harus memenuhi Persyaratan Teknis Jalan sebagai berikut:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "dibangun dengan konstruksi yang sesuai dengan umur rencana;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "mudah pemeliharaannya;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "dilengkapi dengan penerangan yang memadai;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "lebar jalur pejalan kaki minimal 2,5 (dua koma lima) meter;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "e",
+                                    "title": null,
+                                    "text": "lebar jalur sepeda minimal 1,5 (satu koma lima) meter;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "f",
+                                    "title": null,
+                                    "text": "tinggi ruang bagi pejalan kaki paling rendah 3 (tiga) meter;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "g",
+                                    "title": null,
+                                    "text": "terowongan penyeberangan pejalan kaki dilengkapi fasilitas yang memberikan kemudahan akses bagi penyandang disabilitas; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "h",
+                                    "title": null,
+                                    "text": "tersedia fasilitas sistem aliran udara dan drainase sesuai dengan kebutuhan.",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "28",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Pulau Jalan sebagaimana dimaksud dalam Pasal 24 huruf d merupakan bangunan di jalur lalu lintas yang ditinggikan atau muka perkerasan yang diberi marka serong (chevron) yang tidak dilalui oleh kendaraan bermotor dan berfungsi sebagai kanal yang memisahkan dan mengarahkan arus lalu lintas.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Pulau Jalan sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "dibangun dengan konstruksi yang sesuai dengan umur rencana;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "mudah pemeliharaannya;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "sisi luar bangunan pulau Jalan yang ditinggikan menggunakan kereb;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "bagian dari pulau Jalan yang ditinggikan terdiri atas marka garis, marka serong (chevron), lajur tepian, dan bangunan yang ditinggikan; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "e",
+                                    "title": null,
+                                    "text": "dapat dimanfaatkan sebagai fasilitas penyeberang Jalan dan fasilitas lainnya sepanjang tidak mengganggu fungsi Jalan.",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "29",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Trotoar sebagaimana dimaksud dalam Pasal 24 huruf e merupakan bangunan yang ditinggikan sepanjang tepi Jalan yang diperuntukkan bagi lalu lintas pejalan kaki.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Trotoar sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "lebar paling kecil 1,85 (satu koma delapan lima) meter;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "dibangun dengan konstruksi yang sesuai dengan umur rencana;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "mudah pemeliharaannya;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "bagian atas trotoar harus diberi perkerasan dan bagian sisi dalam trotoar harus diberi kereb; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "e",
+                                    "title": null,
+                                    "text": "memperhatikan keselamatan pejalan kaki dan aksesibilitas bagi penyandang disabilitas.",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "30",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Tempat parkir sebagaimana dimaksud dalam Pasal 24 huruf f merupakan bangunan yang diperuntukkan bagi kendaraan berhenti.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Tempat parkir sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "berada di luar badan Jalan untuk Jalan Arteri Primer dan/atau Kolektor Primer;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "berada pada bahu Jalan untuk Jalan lokal dalam hal keterbatasan ruang; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "dilengkapi dengan marka dan rambu.",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "31",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Teluk bus sebagaimana dimaksud dalam Pasal 24 huruf g merupakan bangunan di sisi Jalan berbentuk teluk yang berada di luar jalur lalu lintas dan dapat dilengkapi dengan halte.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Teluk bus sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "dibangun pada ruas Jalan yang dilewati trayek angkutan bus umum;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "jarak antarteluk bus ditetapkan dengan mempertimbangkan kelancaran arus lalu lintas;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "dilengkapi trotoar; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "perkerasan Jalan pada teluk bus mampu menahan beban minimal 2 (dua) kali beban kendaraan bus.",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "32",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Jalur Penghentian Darurat sebagaimana dimaksud dalam Pasal 24 huruf h merupakan jalur khusus di sisi Jalan yang berfungsi sebagai peredam laju kendaraan bermotor roda 4 (empat) hingga truk bermuatan berat yang mengalami kegagalan fungsi sistem pengereman saat melewati Jalan menurun.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Jalur Penghentian Darurat sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "marka dan rambu dipasang di daerah transisi antara lajur lalu lintas normal dan lajur darurat;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "terdiri atas lajur pendekat, landasan penghenti (arrester beds), lajur tambahan (service load), marka, dan rambu;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "pemilihan tipe Jalur Penghentian Darurat bergantung pada situasi dan kondisi lapangan; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "dipasang pagar penyerap energi di ujung Jalur Penghentian Darurat dalam hal kendaraan hilang kendali direncanakan tidak dapat sepenuhnya diperlambat oleh lajur pendekat dan landasan penghenti.",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "34",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Perlengkapan Jalan yang berkaitan langsung dengan pengguna Jalan sebagaimana dimaksud dalam Pasal 33 terdiri atas:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "perlengkapan Jalan wajib; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "perlengkapan Jalan tidak wajib.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Perlengkapan Jalan wajib sebagaimana dimaksud pada ayat (1) huruf a terdiri atas:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "aturan perintah dan larangan yang dinyatakan dengan rambu Jalan, marka Jalan, dan alat pemberi isyarat lalu lintas;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "petunjuk dan peringatan yang dinyatakan dengan rambu dan tanda lain;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "patok lalu lintas (delineator); dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "fasilitas pejalan kaki di Jalan.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "3",
+                            "title": null,
+                            "text": "Perlengkapan Jalan tidak wajib sebagaimana dimaksud pada ayat (1) huruf b berupa lampu penerangan Jalan Umum yang dipasang pada tiang yang berada di sisi luar badan Jalan dan/atau pada bagian tengah median Jalan.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "4",
+                            "title": null,
+                            "text": "Lampu penerangan Jalan Umum sebagaimana dimaksud pada ayat (3) menjadi perlengkapan Jalan wajib pada:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "arteri primer dan kolektor primer 1 yang masuk ke wilayah perkotaan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "arteri dan kolektor sekunder;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "Jalan tol;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "trotoar;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "e",
+                                    "title": null,
+                                    "text": "persimpangan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "f",
+                                    "title": null,
+                                    "text": "tempat parkir; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "g",
+                                    "title": null,
+                                    "text": "daerah dengan jarak pandang yang terbatas.",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "35",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Patok lalu lintas (delineator) sebagaimana dimaksud dalam Pasal 34 ayat (2) huruf c berfungsi sebagai pemberi petunjuk arah yang aman dan batas jalur Jalan.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Patok lalu lintas sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "dipasang pada sisi luar badan Jalan dengan jarak antarpatok lalu lintas paling jauh 25 (dua puluh lima) meter;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "terbuat dari bahan yang tidak membahayakan kendaraan; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "dilengkapi dengan bahan bersifat reflektif.",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "pagar pengaman;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "patok kilometer dan patok hektometer;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "patok ruang milik Jalan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "pagar Jalan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "e",
+                                    "title": null,
+                                    "text": "peredam silau;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "f",
+                                    "title": null,
+                                    "text": "peredam suara dan g. tempat istirahat.",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "37",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Pagar pengaman sebagaimana dimaksud dalam Pasal 36 huruf a berfungsi sebagai pelindung pengguna Jalan dari objek yang membahayakan lalu lintas.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Pagar pengaman sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "memiliki kemampuan untuk meminimalisasi kerusakan kendaraan dan fatalitas terhadap pengguna kendaraan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "dipasang pada tepi luar badan Jalan; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "diberi warna dan tanda yang bersifat reflektif.",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "38",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Patok kilometer sebagaimana dimaksud dalam Pasal 36 huruf b merupakan patok yang memuat informasi mengenai panjang Jalan dan/atau jarak dari kota atau simpul tertentu.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Patok hektometer sebagaimana dimaksud dalam Pasal 36 huruf b merupakan patok yang memuat informasi mengenai panjang Jalan dan/atau jarak dari patok kilometer tertentu.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "3",
+                            "title": null,
+                            "text": "Patok kilometer dan patok hektometer sebagaimana dimaksud pada ayat (1) dan ayat (2) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "patok kilometer dipasang setiap 1 (satu) kilometer dan patok hektomer dipasang di antara patok kilometer setiap 100 (seratus) meter;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "dipasang di sisi luar badan Jalan, di luar saluran tepi, atau di ambang pengaman rumaja;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "memiliki jarak paling dekat 0,6 (nol koma enam) meter dari marka tengah Jalan, dalam hal dipasang pada median Jalan; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "penyediaannya memperhatikan unsur keselamatan pengguna Jalan.",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "39",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Patok ruang milik Jalan sebagaimana dimaksud pada Pasal 36 huruf c merupakan patok pembatas antara lahan milik Jalan yang dikuasai oleh penyelenggara Jalan dan lahan di luar ruang milik Jalan.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Patok ruang milik Jalan sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "dipasang setiap 50 (lima puluh) meter pada kedua sisi Jalan; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "terbuat dari beton atau besi.",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "40",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Pagar Jalan sebagaimana dimaksud pada Pasal 36 huruf d merupakan bangunan penghalang yang berfungsi sebagai pelindung objek tertentu dan/atau pengatur pergerakan pengguna Jalan.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Pagar Jalan sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan, yaitu terbuat dari beton atau besi.",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "41",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Bangunan peredam silau sebagaimana dimaksud pada Pasal 36 huruf e berfungsi sebagai pelindung atau penghalang mata pengemudi dari silau sinar lampu kendaraan pada arah yang berlawanan.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Bangunan peredam silau sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan, yaitu ditempatkan di bagian tengah median pada lokasi yang berpotensi menimbulkan silau bagi pengemudi di Jalan Bebas Hambatan atau Jalan Raya.",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "42",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Bangunan peredam suara sebagaimana dimaksud pada Pasal 36 huruf f berfungsi sebagai pelindung objek tertentu terhadap kebisingan akibat arus lalu lintas.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Bangunan peredam suara sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan, yaitu ditempatkan pada bagian paling luar ruang milik Jalan.",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "43",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Tempat istirahat sebagaimana dimaksud dalam Pasal 36 huruf g merupakan tempat yang berfungsi sebagai pemberhentian sementara bagi pengendara dan kendaraannya.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Tempat istirahat sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "memiliki akses masuk dan keluar; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "dilengkapi minimal dengan tempat parkir dan toilet.",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "45",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Ketidakterputusan Jalan sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf i merupakan keterhubungan antarpusat kegiatan pada tingkat nasional dengan tingkat regional secara berkesinambungan.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Ketidakterputusan Jalan sebagaimana dimaksud pada ayat (1) harus diterapkan pada Jalan arteri primer dan Jalan kolektor primer yang memasuki wilayah perkotaan.",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "bab",
+            "number": "III",
+            "title": "PERENCANAAN TEKNIS",
+            "text": "",
+            "children": [
+                {
+                    "type": "pasal",
+                    "number": "46",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Perencanaan Teknis menghasilkan dokumen rencana teknis yang menggambarkan produk yang ingin diwujudkan.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Perencanaan teknis sebagaimana dimaksud pada ayat (1) mencakup:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "perencanaan teknis Jalan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "perencanaan teknis jembatan; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "perencanaan teknis terowongan.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "3",
+                            "title": null,
+                            "text": "Perencanaan teknis sebagaimana dimaksud pada ayat (1) diselenggarakan dengan mempertimbangkan:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "kekuatan dan stabilitas;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "kemudahan dalam pelaksanaan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "kenyamanan dan keselamatan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "keekonomisan; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "e",
+                                    "title": null,
+                                    "text": "estetika.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "4",
+                            "title": null,
+                            "text": "Dokumen rencana teknis sebagaimana dimaksud pada ayat (1) disusun oleh perencana teknis dan disetujui oleh penyelenggara Jalan sesuai dengan kewenangannya atau pejabat yang ditunjuk.",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "47",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Perencanaan Teknis Jalan sebagaimana dimaksud dalam Pasal 46 ayat (3) huruf a minimal memenuhi ketentuan teknis mengenai:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "ruang manfaat Jalan, ruang milik Jalan, dan ruang pengawasan Jalan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "dimensi Jalan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "muatan sumbu terberat, volume lalu lintas, dan kapasitas;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "persyaratan geometrik Jalan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "e",
+                                    "title": null,
+                                    "text": "konstruksi Jalan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "f",
+                                    "title": null,
+                                    "text": "konstruksi bangunan pelengkap;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "g",
+                                    "title": null,
+                                    "text": "perlengkapan Jalan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "h",
+                                    "title": null,
+                                    "text": "ruang bebas; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "i",
+                                    "title": null,
+                                    "text": "kelestarian lingkungan hidup.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Perencanaan Teknis Jalan sebagaimana dimaksud pada ayat (1) dilakukan dalam 2 (dua) tahap, yaitu:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "perencanaan teknis awal; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "perencanaan teknis akhir.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "3",
+                            "title": null,
+                            "text": "Perencanaan teknis awal sebagaimana dimaksud pada ayat (2) huruf a tidak dilakukan dalam preservasi Jalan.",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "48",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Perencanaan teknis awal sebagaimana dimaksud pada Pasal 47 ayat (2) huruf a merupakan proses penetapan alternatif alinemen dan pemilihan alinemen terbaik Jalan yang akan dibangun.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Perencanaan teknis awal sebagaimana dimaksud pada ayat (1) terdiri atas:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "prastudi kelayakan; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "studi kelayakan.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "3",
+                            "title": null,
+                            "text": "Prastudi kelayakan sebagaimana dimaksud pada ayat (2) huruf a tidak dilakukan pada pekerjaan dengan kriteria:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "bukan merupakan proyek strategis;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "mempunyai ketidakpastian dan risiko yang rendah;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "memiliki alternatif rute terbatas;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "tidak memerlukan pemrioritasan pelaksanaan karena keterbatasan dana; dan/atau e. tidak disyaratkan oleh pemberi kerja.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "4",
+                            "title": null,
+                            "text": "Prastudi kelayakan sebagaimana dimaksud pada ayat (2) huruf a meliputi:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "perumusan kebijakan perencanaan yang meliputi kajian terhadap kebijakan dan sasaran perencanaan, lingkungan dan penataan ruang, serta pengadaan tanah;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "pengkajian terhadap kondisi eksisting pada wilayah studi, termasuk melakukan kajian terhadap dampak yang mungkin timbul untuk setiap solusi yang diusulkan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "pengambilan data fisik, ekonomi, dan lingkungan serta identifikasi lokasi rawan bencana; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "pengembangan dan perbandingan alternatif koridor untuk dipilih.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "5",
+                            "title": null,
+                            "text": "Studi kelayakan Jalan sebagaimana dimaksud pada ayat (2) huruf b meliputi:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "perumusan kebijakan perencanaan yang meliputi kajian terhadap kebijakan dan sasaran perencanaan, lingkungan dan penataan ruang, serta pengadaan tanah;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "pengkajian terhadap kondisi eksisting pada wilayah studi, termasuk melakukan kajian terhadap dampak yang mungkin timbul untuk setiap solusi yang diusulkan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "pengambilan data fisik, ekonomi, dan lingkungan serta identifikasi lokasi rawan bencana;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "prediksi hasil analisis kuantitatif untuk setiap alternatif solusi;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "e",
+                                    "title": null,
+                                    "text": "pengkajian penggunaan alternatif teknologi dan standar yang berkaitan dengan kebutuhan proyek; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "f",
+                                    "title": null,
+                                    "text": "perbandingan alternatif solusi pada koridor yang terpilih pada prastudi kelayakan.",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "49",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Perencanaan teknis akhir (final engineering design) sebagaimana dimaksud dalam Pasal 47 ayat (2) huruf b merupakan kegiatan penyusunan dokumen rencana teknis terperinci yang didasarkan atas hasil studi komparasi alternatif solusi pada koridor yang terpilih.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Perencanaan teknis akhir sebagaimana dimaksud pada ayat (1), terdiri atas:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "dokumen rencana teknis terperinci yang telah memperhitungkan metode pelaksanaan dan spesifikasi;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "audit keselamatan Jalan tahap perencanaan teknis; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "integrasi hasil audit keselamatan Jalan tahap perencanaan teknis dan hasil kajian lingkungan dengan perencanaan teknis terperinci yang menjadi rencana teknis akhir.",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "50",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Perencanaan teknis jembatan sebagaimana dimaksud dalam Pasal 46 ayat (2) huruf b minimal memenuhi persyaratan teknis Jalan dan ketentuan teknis lain mengenai:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "ruang bebas;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "dimensi Jalan pada jembatan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "beban rencana;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "persyaratan geometrik Jalan pada jembatan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "e",
+                                    "title": null,
+                                    "text": "konstruksi jembatan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "f",
+                                    "title": null,
+                                    "text": "perlengkapan Jalan pada jembatan; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "g",
+                                    "title": null,
+                                    "text": "kelestarian lingkungan hidup.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Perencanaan teknis jembatan sebagaimana dimaksud pada ayat (1) diatur secara terperinci dalam ketentuan teknis yang ditetapkan oleh Penyelenggara Jalan.",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "51",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Perencanaan teknis terowongan minimal memenuhi ketentuan teknis pengoperasian dan pemeliharaan, keselamatan, serta penanganan keadaan darurat.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Perencanaan teknis terowongan sebagaimana dimaksud pada ayat (1) minimal memenuhi persyaratan teknis Jalan dan ketentuan teknis lain mengenai:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "ruang bebas;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "dimensi Jalan pada terowongan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "beban rencana;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "persyaratan geometrik Jalan pada terowongan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "e",
+                                    "title": null,
+                                    "text": "konstruksi Jalan pada terowongan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "f",
+                                    "title": null,
+                                    "text": "konstruksi terowongan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "g",
+                                    "title": null,
+                                    "text": "perlengkapan Jalan pada terowongan; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "h",
+                                    "title": null,
+                                    "text": "kelestarian lingkungan hidup.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "3",
+                            "title": null,
+                            "text": "Perencanaan teknis terowongan sebagaimana dimaksud pada ayat (1) diatur secara terperinci dalam ketentuan teknis yang ditetapkan oleh Penyelenggara Jalan.",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "52",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Perencanaan teknis Preservasi Jalan meliputi:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "perencanaan Preservasi jalan; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "perencanaan Preservasi jembatan.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Perencanaan Preservasi jalan sebagaimana dimaksud pada ayat (1) huruf a meliputi:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "rehabilitasi; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "rekonstruksi.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "3",
+                            "title": null,
+                            "text": "Perencanaan Preservasi jembatan sebagaimana dimaksud pada ayat (1) huruf b meliputi:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "pemeliharaan berkala; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "rehabilitasi.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "4",
+                            "title": null,
+                            "text": "Perencanaan teknis Preservasi Jalan sebagaimana dimaksud pada ayat (1) diatur secara terperinci dalam ketentuan teknis yang ditetapkan oleh Penyelenggara Jalan.",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "bab",
+            "number": "IV",
+            "title": "KRITERIA PERENCANAAN TEKNIS",
+            "text": "",
+            "children": [
+                {
+                    "type": "pasal",
+                    "number": "53",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Kriteria Perencanaan Teknis mencakup:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "kriteria perencanaan teknis Jalan baru; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "kriteria perencanaan teknis Preservasi Jalan.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Dalam hal keterbatasan biaya, Persyaratan Teknis Jalan dalam Kriteria Perencanaan Teknis pembangunan Jalan baru dapat dilaksanakan secara bertahap.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "3",
+                            "title": null,
+                            "text": "Persyaratan Teknis Jalan dalam Kriteria Perencanaan Teknis Preservasi Jalan disesuaikan dengan kebutuhan dan sumber daya.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "4",
+                            "title": null,
+                            "text": "",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "54",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Kriteria Perencanaan Teknis Jalan pada Pembangunan Jalan Baru sebagaimana dimaksud dalam Pasal 53 ayat (1) huruf a terdiri atas:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "fungsi Jalan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "kelas Jalan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "ruang manfaat Jalan, ruang milik Jalan, dan ruang pengawasan Jalan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "dimensi Jalan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "e",
+                                    "title": null,
+                                    "text": "muatan sumbu terberat, volume lalu lintas, dan kapasitas Jalan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "f",
+                                    "title": null,
+                                    "text": "persyaratan geometrik Jalan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "g",
+                                    "title": null,
+                                    "text": "konstruksi Jalan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "h",
+                                    "title": null,
+                                    "text": "konstruksi Bangunan Pelengkap Jalan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "i",
+                                    "title": null,
+                                    "text": "perlengkapan Jalan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "j",
+                                    "title": null,
+                                    "text": "ruang bebas Jalan; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "k",
+                                    "title": null,
+                                    "text": "kelestarian lingkungan hidup.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Kriteria Perencanaan Teknis sebagaimana dimaksud pada ayat (1) untuk setiap pelaksanaan Perencanaan Teknis Jalan harus ditetapkan pada awal perencanaan sesuai dengan maksud dan tujuan pembangunan Jalan.",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "Jalan arteri primer;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "Jalan kolektor primer;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "Jalan lokal primer;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "Jalan lingkungan primer;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "e",
+                                    "title": null,
+                                    "text": "Jalan arteri sekunder;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "f",
+                                    "title": null,
+                                    "text": "Jalan kolektor sekunder;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "g",
+                                    "title": null,
+                                    "text": "Jalan lokal sekunder; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "h",
+                                    "title": null,
+                                    "text": "Jalan lingkungan sekunder.",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "56",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Kelas Jalan sebagaimana dimaksud dalam Pasal 54 ayat (1) huruf b terdiri atas:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "spesifikasi penyediaan prasarana Jalan; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "kelas penggunaan Jalan.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Kelas Jalan sesuai dengan spesifikasi penyediaan prasarana Jalan sebagaimana dimaksud pada ayat (1) huruf a ditetapkan 1 (satu) dari 4 (empat) kategori spesifikasi penyediaan prasarana Jalan yang sesuai dengan tujuan perencanaan:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "Jalan bebas hambatan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "Jalan raya;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "Jalan sedang; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "Jalan kecil.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "3",
+                            "title": null,
+                            "text": "Kelas Jalan sesuai kelas penggunaan Jalan sebagaimana dimaksud pada ayat (1) huruf b dipilih 1 (satu) dari 4 (empat) kelas penggunaan Jalan sesuai dengan tujuan perencanaan:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "Jalan kelas I;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "Jalan kelas II;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "Jalan kelas III; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "Jalan kelas khusus.",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "58",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Dimensi Jalan sebagaimana dimaksud dalam Pasal 54 ayat (1) huruf d merupakan ukuran lebar bagian-bagian Jalan yang terdiri atas:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "jalur lalu lintas;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "bahu Jalan; dan/atau c. median.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Ukuran lebar bagian-bagian Jalan sebagaimana dimaksud pada ayat (1) ditetapkan sesuai dengan Tabel Persyaratan Teknis Jalan sebagaimana termuat dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "60",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Volume lalu lintas sebagaimana dimaksud dalam Pasal 54 ayat (1) huruf e dibedakan menjadi:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "volume lalu lintas untuk perencanaan geometrik Jalan; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "volume lalu lintas untuk perencanaan perkerasan Jalan.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Volume lalu lintas untuk perencanaan geometrik Jalan sebagaimana dimaksud pada ayat (1) huruf a merupakan volume lalu lintas harian rata-rata tahunan kendaraan tahun berjalan yang diproyeksikan sesuai dengan umur rencana dan faktor pertumbuhan lalu lintas.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "3",
+                            "title": null,
+                            "text": "Volume lalu lintas untuk perencanaan perkerasan Jalan sebagaimana dimaksud pada ayat (1) huruf b merupakan jumlah kumulatif beban lalu lintas kendaraan yang diperkirakan akan menggunakan Jalan sesuai dengan umur rencana.",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "62",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Persyaratan geometrik Jalan sebagaimana dimaksud dalam Pasal 54 ayat (1) huruf f ditentukan berdasarkan:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "fungsi Jalan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "kelas Jalan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "kecepatan rencana; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "volume lalu lintas rencana.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Persyaratan geometrik Jalan sebagaimana dimaksud pada ayat (1) menjadi dasar penetapan Kriteria Perencanaan Teknis lainnya yang terdiri atas:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "tipe Jalan berdasarkan spesifikasi penyediaan prasarana Jalan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "jarak pandang henti;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "lebar badan Jalan;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "kelandaian melintang;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "e",
+                                    "title": null,
+                                    "text": "panjang bagian Jalan yang lurus paling besar;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "f",
+                                    "title": null,
+                                    "text": "panjang radius tikungan paling kecil;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "g",
+                                    "title": null,
+                                    "text": "besar superelevasi paling tinggi;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "h",
+                                    "title": null,
+                                    "text": "besar tanjakan/turunan (grade) paling besar; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "i",
+                                    "title": null,
+                                    "text": "panjang kurva vertikal paling kecil.",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "63",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Konstruksi Jalan sebagaimana dimaksud dalam Pasal 54 ayat (1) huruf g terdiri atas:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "beban lalu lintas rencana; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "konstruksi perkerasan Jalan yang meliputi:",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Dalam hal diperlukan, konstruksi perkerasan Jalan dapat dilengkapi dengan lapis penopang yang berada di antara tanah dasar dan lapis fondasi.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "3",
+                            "title": null,
+                            "text": "Konstruksi perkerasan Jalan sebagaimana dimaksud pada ayat (1) huruf b berkekuatan sesuai dengan beban lalu lintas rencana.",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "beban rencana; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "kekuatan konstruksi bangunan yang sesuai dengan karakteristik, spesifikasi, struktur, dan pemeliharaannya.",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "66",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Ruang bebas Jalan sebagaimana dimaksud dalam Pasal 54 ayat (1) huruf j merupakan ruang di sisi Jalan yang bebas dari segala bangunan, penghalang, atau bentuk muka tanah yang berpotensi membahayakan pengguna Jalan dan kendaraan, sehingga memenuhi aspek keselamatan.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Penerapan ruang bebas Jalan mempertimbangkan ketersediaan lahan.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "3",
+                            "title": null,
+                            "text": "Ruang bebas Jalan diukur mulai dari marka garis tepi terluar jalur lalu lintas dengan lebar sesuai dengan kecepatan rencana.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "4",
+                            "title": null,
+                            "text": "Penerapan ruang bebas Jalan berlaku pada daerah jurang atau lereng dengan kedalaman lebih dari 5 (lima) meter.",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "67",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Kelestarian lingkungan hidup sebagaimana dimaksud dalam Pasal 54 ayat (1) huruf k merupakan kegiatan kajian lingkungan yang menghasilkan rekomendasi pengelolaan lingkungan hidup, yang dituangkan dalam dokumen lingkungan hidup.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Dokumen lingkungan hidup sebagaimana dimaksud pada ayat (1) dapat berupa:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "Analisis Mengenai Dampak Lingkungan Hidup (AMDAL);",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "3",
+                            "title": null,
+                            "text": "Dalam hal pembangunan Jalan di kawasan hutan, selain menyediakan dokumen lingkungan sebagaimana dimaksud pada ayat (2), perencanaan teknis juga mempertimbangkan rekomendasi teknis yang dikeluarkan oleh instansi berwenang terkait dengan penyediaan prasarana pelindungan satwa dan tumbuhan yang dilindungi.",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "68",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Kriteria Perencanaan Teknis Preservasi Jalan diberlakukan untuk rehabilitasi dan rekonstruksi perkerasan lentur serta rekonstruksi perkerasan kaku.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Kriteria Perencanaan Teknis untuk rehabilitasi Jalan perkerasan lentur sebagaimana dimaksud pada ayat (1) meliputi:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "beban lalu lintas;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "nilai kerataan permukaan (IRI);",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "nilai lendutan; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "d",
+                                    "title": null,
+                                    "text": "umur rencana.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "3",
+                            "title": null,
+                            "text": "Kriteria Perencanaan Teknis untuk rekonstruksi Jalan perkerasan lentur dan perkerasan kaku sebagaimana dimaksud pada ayat (1) meliputi:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "beban lalu lintas;",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "daya dukung tanah dasar; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "c",
+                                    "title": null,
+                                    "text": "umur rencana.",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "pasal",
+                    "number": "69",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Kriteria Perencanaan Teknis Preservasi jembatan diberlakukan untuk pemeliharaan berkala dan rehabilitasi.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Kriteria Perencanaan Teknis untuk Preservasi jembatan meliputi:",
+                            "children": [
+                                {
+                                    "type": "huruf",
+                                    "number": "a",
+                                    "title": null,
+                                    "text": "kondisi elemen jembatan; dan",
+                                    "children": []
+                                },
+                                {
+                                    "type": "huruf",
+                                    "number": "b",
+                                    "title": null,
+                                    "text": "pengujian elemen struktur jembatan.",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "3",
+                            "title": null,
+                            "text": "Selain Kriteria Perencanaan Teknis Preservasi jembatan sebagaimana dimaksud pada ayat (2), rehabilitasi jembatan direncanakan dengan mempertimbangkan pengembalian kondisi elemen jembatan untuk mencapai umur layan.",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "bab",
+            "number": "V",
+            "title": "KETENTUAN LAIN-LAIN",
+            "text": "",
+            "children": [
+                {
+                    "type": "pasal",
+                    "number": "70",
+                    "title": null,
+                    "text": "",
+                    "children": [
+                        {
+                            "type": "ayat",
+                            "number": "1",
+                            "title": null,
+                            "text": "Dalam hal suatu Perencanaan Teknis Jalan tidak dapat memenuhi Persyaratan Teknis Jalan yang ditetapkan dalam Peraturan Menteri ini, maka Perencanaan Teknis Jalan dapat dilakukan atas persetujuan Penyelenggara Jalan dengan tetap mempertimbangkan keselamatan, keamanan, dan kelancaran pengguna Jalan.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "2",
+                            "title": null,
+                            "text": "Ketentuan lebih lanjut mengenai Persyaratan Teknis Jalan dan Kriteria Perencanaan Teknis Jalan, sebagaimana dimaksud dalam Pasal 37, Pasal 38, Pasal 39, Pasal 40, Pasal 41, Pasal 42, dan Pasal 43 diatur dalam pedoman yang ditetapkan oleh unit organisasi yang melaksanakan tugas di bidang Jalan dan jembatan.",
+                            "children": []
+                        },
+                        {
+                            "type": "ayat",
+                            "number": "3",
+                            "title": null,
+                            "text": "Ketentuan Persyaratan Teknis Jalan dan Kriteria Perencanaan Teknis Jalan sebagaimana dimaksud dalam Pasal 4, Pasal 5, Pasal 6, Pasal 7, Pasal 8, Pasal 10, Pasal 11, Pasal 12, Pasal 14, Pasal 57, dan Pasal 58 termuat dalam Lampiran yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "bab",
+            "number": "VI",
+            "title": "KETENTUAN PERALIHAN",
+            "text": "",
+            "children": [
+                {
+                    "type": "huruf",
+                    "number": "a",
+                    "title": null,
+                    "text": "Perencanaan Teknis Jalan yang masih berlangsung dan/atau belum sampai pada tahap pelaksanaan konstruksi mengikuti ketentuan dalam Peraturan Menteri ini.",
+                    "children": []
+                },
+                {
+                    "type": "huruf",
+                    "number": "b",
+                    "title": null,
+                    "text": "Perencanaan Teknis Jalan yang sudah sampai pada tahap pelaksanaan konstruksi tetap mengikuti ketentuan dalam Peraturan Menteri Pekerjaan Umum Nomor 19/PRT/M/2011 tentang Persyaratan Teknis Jalan dan Kriteria Perencanaan Teknis Jalan (Berita Negara Republik Indonesia Tahun 2011 Nomor 900).",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "bab",
+            "number": "VII",
+            "title": "KETENTUAN PENUTUP",
+            "text": "",
+            "children": []
+        }
+    ]
+}

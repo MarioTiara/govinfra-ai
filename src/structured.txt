@@ -1,0 +1,488 @@
+document
+    menimbang
+        huruf a: bahwa untuk melaksanakan ketentuan dalam Pasal 24 dan Pasal 86 Peraturan Pemerintah Nomor 34 tahun 2006 tentang Jalan dan untuk mewujudkan jalan yang memenuhi ketentuan keamanan, keselamatan, kelancaran arus penumpang dan barang, dan jaringan jalan yang berkelanjutan perlu disusun ketentuan mengenai persyaratan teknis jalan dan perencanaan teknis jalan;
+        huruf b: bahwa Peraturan Menteri Pekerjaan Umum Nomor 19/PRT/M/2011 tentang Persyaratan Teknis Jalan dan Kriteria Perencanaan Teknis Jalan sudah tidak sesuai dengan kebutuhan pengaturan sehingga perlu diganti;
+        huruf c: bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Menteri Pekerjaan Umum dan Perumahan Rakyat tentang Persyaratan Teknis Jalan dan Perencanaan Teknis Jalan;
+    mengingat
+    memutuskan
+    menetapkan
+    bab I - KETENTUAN UMUM
+        pasal 2
+            ayat 1: Persyaratan Teknis Jalan dan Perencanaan Teknis Jalan diberlakukan untuk Jalan Umum dalam pembangunan Jalan baru dan Preservasi Jalan.
+            ayat 2: Perencanaan Teknis Jalan sebagaimana dimaksud pada ayat (1) dilakukan berdasarkan pada Kriteria Perencanaan Teknis Jalan agar Jalan yang direncanakan memenuhi Persyaratan Teknis Jalan.
+    bab II - PERSYARATAN TEKNIS JALAN
+        ayat 1: Jalan harus memenuhi Persyaratan Teknis Jalan.
+        ayat 2: Persyaratan Teknis Jalan sebagaimana dimaksud pada ayat (1) terdiri atas:
+            huruf a: kecepatan rencana;
+            huruf b: lebar badan Jalan;
+            huruf c: kapasitas Jalan;
+            huruf d: Jalan masuk;
+            huruf e: persimpangan sebidang;
+            huruf f: Bangunan Pelengkap Jalan;
+            huruf g: perlengkapan Jalan;
+            huruf h: penggunaan Jalan sesuai dengan fungsinya; dan
+            huruf i: ketidakterputusan.
+        pasal 4
+            ayat 1: Kecepatan rencana sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf a merupakan kecepatan kendaraan yang mendasari Perencanaan Teknis Jalan.
+            ayat 2: Kecepatan rencana sebagaimana dimaksud pada ayat (1) harus memenuhi Perencanaan Teknis Jalan dengan mempertimbangkan minimal fungsi Jalan, kelas Jalan, dan kapasitas rencana.
+            ayat 3: Kecepatan rencana ditentukan berdasarkan Persyaratan Teknis Jalan yang tercantum dalam Tabel Persyaratan Teknis Jalan sebagaimana termuat dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+            ayat 4: Dalam hal kecepatan rencana menurut Persyaratan Teknis Jalan tidak terpenuhi, kecepatan rencana dapat diturunkan atas dasar pertimbangan keselamatan.
+        pasal 5
+            ayat 1: Lebar badan Jalan sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf b merupakan ukuran dari bagian ruang manfaat Jalan yang terdiri atas:
+                huruf a: jalur lalu lintas;
+                huruf b: bahu Jalan;
+                huruf c: median; dan
+                huruf d: pemisah lajur.
+            ayat 2: Lebar badan Jalan sebagaimana dimaksud pada ayat (1) ditentukan dengan mempertimbangkan minimal fungsi Jalan, kelas Jalan, dan kapasitas rencana.
+            ayat 3: Lebar badan Jalan ditentukan berdasarkan Persyaratan Teknis Jalan yang tercantum dalam Tabel Persyaratan Teknis Jalan dan Ilustrasi Konfigurasi Potongan Melintang Badan Jalan sebagaimana termuat dalam Lampiran I dan Lampiran III yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+        pasal 6
+            ayat 1: Jalur lalu lintas sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf a merupakan suatu bagian dari Jalan yang digunakan oleh lalu lintas kendaraan, baik 1 (satu) arah maupun 2 (dua) arah dan terdiri atas minimal 1 (satu) lajur lalu lintas.
+            ayat 2: Jalur lalu lintas sebagaimana dimaksud pada ayat (1) diperuntukkan bagi kendaraan serta dapat dilengkapi dengan lajur khusus sepeda motor, lajur sepeda, dan lajur angkutan massal berbasis Jalan.
+            ayat 3: Dalam hal arus lalu lintas terdapat kendaraan berat berkecepatan rendah dengan komposisi tertentu, disediakan lajur pendakian.
+            ayat 4: Lebar jalur lalu lintas ditentukan berdasarkan Persyaratan Teknis Jalan yang tercantum dalam Tabel Persyaratan Teknis Jalan sebagaimana termuat dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+        pasal 7
+            ayat 1: Bahu Jalan sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf b merupakan suatu bagian dari Jalan yang berfungsi sebagai lajur darurat dan pendukung lateral konstruksi perkerasan Jalan.
+            ayat 2: Bahu Jalan sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:
+                huruf a: muka perkerasan bahu Jalan rata dengan muka perkerasan lajur lalu lintas;
+                huruf b: diperkeras dengan perkerasan tidak berpenutup atau berpenutup yang berkekuatan tidak boleh kurang dari 10% lalu lintas lajur rencana, atau sama dengan lalu lintas yang diperkirakan akan menggunakan bahu Jalan (diambil yang terbesar);
+                huruf c: pada Jalan Bebas Hambatan harus diperkeras seluruhnya dengan perkerasan berpenutup lebih besar dari 60% (enam puluh persen) dari kekuatan perkerasan lajur lalu lintas yang berdasarkan perhitungan beban; dan
+                huruf d: diberi kemiringan melintang untuk menyalurkan air hujan yang mengalir melalui permukaan bahu Jalan.
+            ayat 3: Lebar bahu Jalan ditentukan berdasarkan Persyaratan Teknis Jalan yang tercantum dalam Tabel Persyaratan Teknis Jalan sebagaimana termuat dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+        pasal 8
+            ayat 1: Median sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf c merupakan bagian dari Jalan Bebas Hambatan dan Jalan raya yang berfungsi untuk memisahkan arus lalu lintas yang berlawanan arah.
+            ayat 2: Median sebagaimana dimaksud pada ayat (1) meliputi:
+                huruf a: median yang ditinggikan; dan
+                huruf b: median yang direndahkan.
+            ayat 3: Lebar median Jalan ditentukan berdasarkan Persyaratan Teknis Jalan yang tercantum dalam Tabel Persyaratan Teknis Jalan sebagaimana termuat dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+        pasal 9
+            ayat 1: Pemisah lajur sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf d merupakan bagian Jalan yang digunakan untuk memisahkan arus lalu lintas searah yang memiliki perbedaan fungsi Jalan, kelas Jalan, kecepatan rencana, kecepatan operasional, dan/atau peruntukan jenis kendaraan yang diizinkan beroperasi.
+            ayat 2: Pemisah lajur sebagaimana dimaksud pada ayat (1) terdiri atas:
+                huruf a: marka garis tepi;
+                huruf b: bahu dalam; dan
+                huruf c: bagian bangunan yang ditinggikan.
+            ayat 3: Lebar pemisah lajur diukur sesuai dengan jarak antarsisi dalam marka garis tepi.
+        pasal 10
+            ayat 1: Kapasitas Jalan sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf c merupakan kemampuan maksimum suatu ruas Jalan untuk melayani arus lalu lintas.
+            ayat 2: Nilai kapasitas rencana suatu ruas Jalan untuk setiap tipe Jalan berdasarkan Persyaratan Teknis Jalan yang tercantum dalam Tabel Persyaratan Teknis Jalan sebagaimana termuat dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+        pasal 11
+            ayat 1: Jalan masuk sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf d merupakan bukaan dari jalur lambat ke jalur utama.
+            ayat 2: Jalur utama sebagaimana dimaksud pada ayat (1) merupakan Jalan arteri sekunder atau Jalan kolektor sekunder.
+            ayat 3: Jalur lambat sebagaimana dimaksud pada ayat (1) merupakan jalur yang sejajar dengan jalur utama yang terletak di samping kiri dan/atau samping kanannya dan dibatasi oleh jalur pemisah yang dilengkapi bukaan dengan jarak antarbukaan tertentu.
+            ayat 4: Jalur lambat sebagaimana dimaksud pada ayat (1) berfungsi untuk memfasilitasi kendaraan dari Jalan lokal, Jalan lingkungan, atau akses persil menuju jalur utama.
+            ayat 5: Jarak antarbukaan dari jalur lambat ke jalur utama ditentukan berdasarkan Persyaratan Teknis Jalan yang tercantum dalam Tabel Persyaratan Teknis Jalan sebagaimana termuat dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+            ayat 6: Jarak antarbukaan dari jalur lambat ke jalur utama sebagaimana dimaksud pada ayat (5) dapat ditentukan lain atas persetujuan penyelenggara Jalan.
+        pasal 12
+            ayat 1: Persimpangan sebidang sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf e merupakan pertemuan 2 (dua) ruas Jalan atau lebih dalam 1 (satu) bidang.
+            ayat 2: Pengaturan lalu lintas pada persimpangan sebidang sebagaimana dimaksud pada ayat (1) dapat berupa pengaturan prioritas, pengaturan dengan bundaran, atau pengaturan dengan alat pemberi isyarat lalu lintas.
+            ayat 3: Dalam hal pengaturan dengan alat pemberi isyarat lalu lintas sebagaimana dimaksud pada ayat (2) sudah tidak mampu mengatasi permasalahan lalu lintas di persimpangan sebidang, penanganannya dilakukan melalui pembangunan persimpangan tak sebidang.
+            ayat 4: Jarak antarpersimpangan sebidang paling dekat ditentukan berdasarkan Persyaratan Teknis Jalan yang tercantum dalam Tabel Persyaratan Teknis Jalan sebagaimana termuat dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+        pasal 14
+            ayat 1: Sebagai jalur lalu lintas, Bangunan Pelengkap Jalan sebagaimana dimaksud dalam Pasal 13 berupa:
+                huruf a: jembatan;
+                huruf b: lintas atas;
+                huruf c: lintas bawah;
+                huruf d: terowongan; dan
+                huruf e: jalan layang (2) Berdasarkan aspek kompleksitas struktur dan teknologi, Bangunan Pelengkap Jalan sebagaimana dimaksud pada ayat (1) terdiri atas:
+                huruf a: Bangunan Pelengkap Jalan standar; dan
+                huruf b: Bangunan Pelengkap Jalan khusus.
+            ayat 3: Persyaratan Teknis Bangunan Pelengkap Jalan sebagaimana dimaksud pada ayat (2) diatur secara terperinci dalam Tabel Persyaratan Teknis Bangunan Pelengkap Jalan yang berfungsi sebagai jalur lalu lintas sebagaimana termuat dalam Lampiran IV yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+        pasal 15
+            ayat 1: Jembatan sebagaimana dimaksud dalam Pasal 14 ayat (1) huruf a merupakan bangunan Jalan yang melintasi sungai, melintasi lembah, atau menghubungkan 2 (dua) bukit.
+            ayat 2: Jembatan sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:
+                huruf a: memiliki lebar jalur lalu lintas yang sama dengan lebar jalur lalu lintas pada ruas Jalan;
+                huruf b: dilengkapi dengan lajur tepian dalam hal tidak terdapat bahu Jalan;
+                huruf c: dilengkapi trotoar untuk pejalan kaki dalam keadaan darurat dan untuk akses bagi petugas pemeliharaan; dan
+                huruf d: pada Jalan arteri dan Jalan kolektor, lebar badan Jalan pada jembatan sama dengan lebar badan Jalan pada ruas Jalan di luar jembatan.
+            ayat 3: Jalur transisi dari ruas Jalan ke Jembatan harus memenuhi ketentuan mengenai geometrik Jalan.
+        pasal 16
+            ayat 1: Lintas atas sebagaimana dimaksud dalam Pasal 14 ayat (1) huruf b merupakan bangunan Jalan yang melintasi Jalan lalu lintas.
+            ayat 2: Lintas atas sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:
+                huruf a: dilengkapi dengan lajur tepian dalam hal tidak terdapat bahu Jalan; dan
+                huruf b: dilengkapi trotoar untuk pejalan kaki dalam keadaan darurat dan untuk akses bagi petugas pemeliharaan.
+        pasal 17
+            ayat 1: Lintas bawah sebagaimana dimaksud dalam Pasal 14 ayat (1) huruf c merupakan bangunan Jalan yang melintas di bawah Jalan yang lain.
+            ayat 2: Lintas bawah sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:
+                huruf a: dilengkapi dengan lajur tepian dalam hal tidak terdapat bahu Jalan; dan
+                huruf b: dilengkapi trotoar untuk pejalan kaki dalam keadaan darurat dan untuk akses bagi petugas pemeliharaan.
+        pasal 18
+            ayat 1: Terowongan sebagaimana dimaksud dalam Pasal 14 ayat (1) huruf d merupakan bangunan Jalan yang melintas di bawah permukaan tanah.
+            ayat 2: Terowongan sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:
+                huruf a: memiliki ruang yang memadai untuk dapat menampung semua fasilitas terowongan; dan
+                huruf b: dilengkapi trotoar untuk pejalan kaki dalam keadaan darurat dan untuk akses bagi petugas pemeliharaan.
+        pasal 19
+            ayat 1: Jalan layang sebagaimana dimaksud dalam Pasal 14 ayat (1) huruf e merupakan bangunan Jalan yang melintas di atas permukaan tanah.
+            ayat 2: Jalan layang sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:
+                huruf a: dilengkapi dengan lajur tepian dalam hal tidak terdapat bahu Jalan; dan
+                huruf b: dilengkapi dengan trotoar untuk pejalan kaki dalam keadaan darurat dan untuk akses bagi petugas pemeliharaan.
+                huruf a: saluran tepi Jalan;
+                huruf b: gorong-gorong; dan
+                huruf c: dinding penahan tanah.
+        pasal 21
+            ayat 1: Saluran tepi Jalan sebagaimana dimaksud dalam Pasal 20 huruf a merupakan saluran untuk menampung dan mengalirkan air hujan atau air yang ada di permukaan Jalan, bahu Jalan, daerah tangkapan air hujan dan jalur lainnya, serta air dari drainase di bawah muka Jalan di sepanjang ruas Jalan.
+            ayat 2: Saluran tepi Jalan sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:
+                huruf a: berupa galian tanah biasa atau diperkeras;
+                huruf b: dalam hal saluran tepi jalan berfungsi sebagai bagian dari ruang bebas Jalan, kemiringannya disesuaikan dengan konsep Jalan berkeselamatan;
+                huruf c: berupa saluran tepi Jalan tipe tertutup untuk wilayah yang banyak dilalui pejalan kaki; dan
+                huruf d: memiliki dimensi dengan kemampuan mengalirkan debit air maksimal.
+        pasal 22
+            ayat 1: Gorong-gorong sebagaimana dimaksud dalam Pasal 20 huruf b merupakan saluran air yang melintang di bawah permukaan Jalan yang berfungsi mengalirkan air dari saluran tepi Jalan yang satu ke saluran tepi Jalan yang lainnya.
+            ayat 2: Gorong-gorong sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:
+                huruf a: memiliki usia pelayanan minimal 20 (dua puluh) tahun;
+                huruf b: mudah pemeliharaannya; dan
+                huruf c: konstruksi kepala gorong-gorong tidak membahayakan pengguna Jalan.
+            ayat 3: Dalam hal gorong-gorong difungsikan juga sebagai penampung air dari drainase/saluran alam lingkungan, dimensi goronggorong harus mempertimbangkan volume air tambahan yang ditampung.
+        pasal 23
+            ayat 1: Dinding penahan tanah sebagaimana dimaksud dalam Pasal 20 huruf c merupakan bangunan yang digunakan untuk menyokong dan/atau melindungi badan Jalan yang berada di lereng atau di bawah permukaan badan Jalan yang mampu menahan beban.
+            ayat 2: Dinding penahan tanah sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:
+                huruf a: berupa struktur penahan tanah yang memiliki kekuatan sesuai dengan umur rencana;
+                huruf b: mudah pemeliharaannya; dan
+                huruf c: dilengkapi sistem drainase.
+                huruf a: gerbang tol;
+                huruf b: jembatan penyeberangan pejalan kaki;
+                huruf c: terowongan penyeberangan pejalan kaki;
+                huruf d: pulau Jalan;
+                huruf e: trotoar;
+                huruf f: tempat parkir;
+                huruf g: teluk bus; dan
+                huruf h: jalur penghentian darurat.
+        pasal 25
+            ayat 1: Gerbang Tol sebagaimana dimaksud dalam Pasal 24 huruf a merupakan bangunan gardu yang diperuntukkan bagi kendaraan pengguna Jalan tol membayar biaya tol.
+            ayat 2: Gerbang Tol sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:
+                huruf a: memiliki peralatan dan bangunan tempat pembayaran sesuai dengan metode yang berlaku dan lajur lalu lintas kendaraan;
+                huruf b: memiliki kekuatan bangunan untuk melayani pembayaran Jalan tol selama masa konsesi; dan
+                huruf c: dilengkapi dengan perlengkapan Jalan untuk keselamatan lalu lintas.
+        pasal 26
+            ayat 1: Jembatan penyeberangan pejalan kaki sebagaimana dimaksud dalam Pasal 24 huruf b merupakan bangunan jembatan yang diperuntukkan bagi pejalan kaki untuk menyeberang dari satu sisi Jalan ke sisi Jalan yang lainnya.
+            ayat 2: Jembatan penyeberangan pejalan kaki sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:
+                huruf a: memiliki umur rencana minimal 75 (tujuh puluh lima) tahun;
+                huruf b: dilengkapi dengan pagar;
+                huruf c: dilengkapi dengan penerangan yang memadai;
+                huruf d: dilengkapi dengan tangga dan bordes serta fasilitas yang memberikan kemudahan akses bagi penyandang disabilitas; dan
+                huruf e: ditempatkan pada lokasi yang sesuai dengan kebutuhan pejalan kaki.
+        pasal 27
+            ayat 1: Terowongan penyeberangan pejalan kaki sebagaimana dimaksud dalam Pasal 24 huruf c merupakan bangunan terowongan melintang di bawah permukaan Jalan yang diperuntukkan bagi pejalan kaki yang menyeberang dari satu sisi Jalan ke sisi Jalan yang lainnya.
+            ayat 2: Terowongan penyeberangan pejalan kaki sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:
+                huruf a: dibangun dengan konstruksi yang sesuai dengan umur rencana;
+                huruf b: mudah pemeliharaannya;
+                huruf c: dilengkapi dengan penerangan yang memadai;
+                huruf d: lebar jalur pejalan kaki minimal 2,5 (dua koma lima) meter;
+                huruf e: tinggi ruang bagi pejalan kaki paling rendah 3 (tiga) meter;
+                huruf f: terowongan penyeberangan pejalan kaki dilengkapi fasilitas yang memberikan kemudahan akses bagi penyandang disabilitas; dan
+                huruf g: tersedia fasilitas sistem aliran udara dan drainase sesuai dengan kebutuhan.
+            ayat 3: Terowongan penyeberangan pejalan kaki sebagaimana dimaksud pada ayat (1) dapat dilengkapi dengan lajur sepeda.
+            ayat 4: Dalam hal terowongan penyeberangan pejalan kaki dilengkapi dengan lajur sepeda harus memenuhi Persyaratan Teknis Jalan sebagai berikut:
+                huruf a: dibangun dengan konstruksi yang sesuai dengan umur rencana;
+                huruf b: mudah pemeliharaannya;
+                huruf c: dilengkapi dengan penerangan yang memadai;
+                huruf d: lebar jalur pejalan kaki minimal 2,5 (dua koma lima) meter;
+                huruf e: lebar jalur sepeda minimal 1,5 (satu koma lima) meter;
+                huruf f: tinggi ruang bagi pejalan kaki paling rendah 3 (tiga) meter;
+                huruf g: terowongan penyeberangan pejalan kaki dilengkapi fasilitas yang memberikan kemudahan akses bagi penyandang disabilitas; dan
+                huruf h: tersedia fasilitas sistem aliran udara dan drainase sesuai dengan kebutuhan.
+        pasal 28
+            ayat 1: Pulau Jalan sebagaimana dimaksud dalam Pasal 24 huruf d merupakan bangunan di jalur lalu lintas yang ditinggikan atau muka perkerasan yang diberi marka serong (chevron) yang tidak dilalui oleh kendaraan bermotor dan berfungsi sebagai kanal yang memisahkan dan mengarahkan arus lalu lintas.
+            ayat 2: Pulau Jalan sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:
+                huruf a: dibangun dengan konstruksi yang sesuai dengan umur rencana;
+                huruf b: mudah pemeliharaannya;
+                huruf c: sisi luar bangunan pulau Jalan yang ditinggikan menggunakan kereb;
+                huruf d: bagian dari pulau Jalan yang ditinggikan terdiri atas marka garis, marka serong (chevron), lajur tepian, dan bangunan yang ditinggikan; dan
+                huruf e: dapat dimanfaatkan sebagai fasilitas penyeberang Jalan dan fasilitas lainnya sepanjang tidak mengganggu fungsi Jalan.
+        pasal 29
+            ayat 1: Trotoar sebagaimana dimaksud dalam Pasal 24 huruf e merupakan bangunan yang ditinggikan sepanjang tepi Jalan yang diperuntukkan bagi lalu lintas pejalan kaki.
+            ayat 2: Trotoar sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:
+                huruf a: lebar paling kecil 1,85 (satu koma delapan lima) meter;
+                huruf b: dibangun dengan konstruksi yang sesuai dengan umur rencana;
+                huruf c: mudah pemeliharaannya;
+                huruf d: bagian atas trotoar harus diberi perkerasan dan bagian sisi dalam trotoar harus diberi kereb; dan
+                huruf e: memperhatikan keselamatan pejalan kaki dan aksesibilitas bagi penyandang disabilitas.
+        pasal 30
+            ayat 1: Tempat parkir sebagaimana dimaksud dalam Pasal 24 huruf f merupakan bangunan yang diperuntukkan bagi kendaraan berhenti.
+            ayat 2: Tempat parkir sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:
+                huruf a: berada di luar badan Jalan untuk Jalan Arteri Primer dan/atau Kolektor Primer;
+                huruf b: berada pada bahu Jalan untuk Jalan lokal dalam hal keterbatasan ruang; dan
+                huruf c: dilengkapi dengan marka dan rambu.
+        pasal 31
+            ayat 1: Teluk bus sebagaimana dimaksud dalam Pasal 24 huruf g merupakan bangunan di sisi Jalan berbentuk teluk yang berada di luar jalur lalu lintas dan dapat dilengkapi dengan halte.
+            ayat 2: Teluk bus sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:
+                huruf a: dibangun pada ruas Jalan yang dilewati trayek angkutan bus umum;
+                huruf b: jarak antarteluk bus ditetapkan dengan mempertimbangkan kelancaran arus lalu lintas;
+                huruf c: dilengkapi trotoar; dan
+                huruf d: perkerasan Jalan pada teluk bus mampu menahan beban minimal 2 (dua) kali beban kendaraan bus.
+        pasal 32
+            ayat 1: Jalur Penghentian Darurat sebagaimana dimaksud dalam Pasal 24 huruf h merupakan jalur khusus di sisi Jalan yang berfungsi sebagai peredam laju kendaraan bermotor roda 4 (empat) hingga truk bermuatan berat yang mengalami kegagalan fungsi sistem pengereman saat melewati Jalan menurun.
+            ayat 2: Jalur Penghentian Darurat sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:
+                huruf a: marka dan rambu dipasang di daerah transisi antara lajur lalu lintas normal dan lajur darurat;
+                huruf b: terdiri atas lajur pendekat, landasan penghenti (arrester beds), lajur tambahan (service load), marka, dan rambu;
+                huruf c: pemilihan tipe Jalur Penghentian Darurat bergantung pada situasi dan kondisi lapangan; dan
+                huruf d: dipasang pagar penyerap energi di ujung Jalur Penghentian Darurat dalam hal kendaraan hilang kendali direncanakan tidak dapat sepenuhnya diperlambat oleh lajur pendekat dan landasan penghenti.
+        pasal 34
+            ayat 1: Perlengkapan Jalan yang berkaitan langsung dengan pengguna Jalan sebagaimana dimaksud dalam Pasal 33 terdiri atas:
+                huruf a: perlengkapan Jalan wajib; dan
+                huruf b: perlengkapan Jalan tidak wajib.
+            ayat 2: Perlengkapan Jalan wajib sebagaimana dimaksud pada ayat (1) huruf a terdiri atas:
+                huruf a: aturan perintah dan larangan yang dinyatakan dengan rambu Jalan, marka Jalan, dan alat pemberi isyarat lalu lintas;
+                huruf b: petunjuk dan peringatan yang dinyatakan dengan rambu dan tanda lain;
+                huruf c: patok lalu lintas (delineator); dan
+                huruf d: fasilitas pejalan kaki di Jalan.
+            ayat 3: Perlengkapan Jalan tidak wajib sebagaimana dimaksud pada ayat (1) huruf b berupa lampu penerangan Jalan Umum yang dipasang pada tiang yang berada di sisi luar badan Jalan dan/atau pada bagian tengah median Jalan.
+            ayat 4: Lampu penerangan Jalan Umum sebagaimana dimaksud pada ayat (3) menjadi perlengkapan Jalan wajib pada:
+                huruf a: arteri primer dan kolektor primer 1 yang masuk ke wilayah perkotaan;
+                huruf b: arteri dan kolektor sekunder;
+                huruf c: Jalan tol;
+                huruf d: trotoar;
+                huruf e: persimpangan;
+                huruf f: tempat parkir; dan
+                huruf g: daerah dengan jarak pandang yang terbatas.
+        pasal 35
+            ayat 1: Patok lalu lintas (delineator) sebagaimana dimaksud dalam Pasal 34 ayat (2) huruf c berfungsi sebagai pemberi petunjuk arah yang aman dan batas jalur Jalan.
+            ayat 2: Patok lalu lintas sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:
+                huruf a: dipasang pada sisi luar badan Jalan dengan jarak antarpatok lalu lintas paling jauh 25 (dua puluh lima) meter;
+                huruf b: terbuat dari bahan yang tidak membahayakan kendaraan; dan
+                huruf c: dilengkapi dengan bahan bersifat reflektif.
+                huruf a: pagar pengaman;
+                huruf b: patok kilometer dan patok hektometer;
+                huruf c: patok ruang milik Jalan;
+                huruf d: pagar Jalan;
+                huruf e: peredam silau;
+                huruf f: peredam suara dan g. tempat istirahat.
+        pasal 37
+            ayat 1: Pagar pengaman sebagaimana dimaksud dalam Pasal 36 huruf a berfungsi sebagai pelindung pengguna Jalan dari objek yang membahayakan lalu lintas.
+            ayat 2: Pagar pengaman sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:
+                huruf a: memiliki kemampuan untuk meminimalisasi kerusakan kendaraan dan fatalitas terhadap pengguna kendaraan;
+                huruf b: dipasang pada tepi luar badan Jalan; dan
+                huruf c: diberi warna dan tanda yang bersifat reflektif.
+        pasal 38
+            ayat 1: Patok kilometer sebagaimana dimaksud dalam Pasal 36 huruf b merupakan patok yang memuat informasi mengenai panjang Jalan dan/atau jarak dari kota atau simpul tertentu.
+            ayat 2: Patok hektometer sebagaimana dimaksud dalam Pasal 36 huruf b merupakan patok yang memuat informasi mengenai panjang Jalan dan/atau jarak dari patok kilometer tertentu.
+            ayat 3: Patok kilometer dan patok hektometer sebagaimana dimaksud pada ayat (1) dan ayat (2) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:
+                huruf a: patok kilometer dipasang setiap 1 (satu) kilometer dan patok hektomer dipasang di antara patok kilometer setiap 100 (seratus) meter;
+                huruf b: dipasang di sisi luar badan Jalan, di luar saluran tepi, atau di ambang pengaman rumaja;
+                huruf c: memiliki jarak paling dekat 0,6 (nol koma enam) meter dari marka tengah Jalan, dalam hal dipasang pada median Jalan; dan
+                huruf d: penyediaannya memperhatikan unsur keselamatan pengguna Jalan.
+        pasal 39
+            ayat 1: Patok ruang milik Jalan sebagaimana dimaksud pada Pasal 36 huruf c merupakan patok pembatas antara lahan milik Jalan yang dikuasai oleh penyelenggara Jalan dan lahan di luar ruang milik Jalan.
+            ayat 2: Patok ruang milik Jalan sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:
+                huruf a: dipasang setiap 50 (lima puluh) meter pada kedua sisi Jalan; dan
+                huruf b: terbuat dari beton atau besi.
+        pasal 40
+            ayat 1: Pagar Jalan sebagaimana dimaksud pada Pasal 36 huruf d merupakan bangunan penghalang yang berfungsi sebagai pelindung objek tertentu dan/atau pengatur pergerakan pengguna Jalan.
+            ayat 2: Pagar Jalan sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan, yaitu terbuat dari beton atau besi.
+        pasal 41
+            ayat 1: Bangunan peredam silau sebagaimana dimaksud pada Pasal 36 huruf e berfungsi sebagai pelindung atau penghalang mata pengemudi dari silau sinar lampu kendaraan pada arah yang berlawanan.
+            ayat 2: Bangunan peredam silau sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan, yaitu ditempatkan di bagian tengah median pada lokasi yang berpotensi menimbulkan silau bagi pengemudi di Jalan Bebas Hambatan atau Jalan Raya.
+        pasal 42
+            ayat 1: Bangunan peredam suara sebagaimana dimaksud pada Pasal 36 huruf f berfungsi sebagai pelindung objek tertentu terhadap kebisingan akibat arus lalu lintas.
+            ayat 2: Bangunan peredam suara sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan, yaitu ditempatkan pada bagian paling luar ruang milik Jalan.
+        pasal 43
+            ayat 1: Tempat istirahat sebagaimana dimaksud dalam Pasal 36 huruf g merupakan tempat yang berfungsi sebagai pemberhentian sementara bagi pengendara dan kendaraannya.
+            ayat 2: Tempat istirahat sebagaimana dimaksud pada ayat (1) harus memenuhi Persyaratan Teknis Jalan sebagai berikut:
+                huruf a: memiliki akses masuk dan keluar; dan
+                huruf b: dilengkapi minimal dengan tempat parkir dan toilet.
+        pasal 45
+            ayat 1: Ketidakterputusan Jalan sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf i merupakan keterhubungan antarpusat kegiatan pada tingkat nasional dengan tingkat regional secara berkesinambungan.
+            ayat 2: Ketidakterputusan Jalan sebagaimana dimaksud pada ayat (1) harus diterapkan pada Jalan arteri primer dan Jalan kolektor primer yang memasuki wilayah perkotaan.
+    bab III - PERENCANAAN TEKNIS
+        pasal 46
+            ayat 1: Perencanaan Teknis menghasilkan dokumen rencana teknis yang menggambarkan produk yang ingin diwujudkan.
+            ayat 2: Perencanaan teknis sebagaimana dimaksud pada ayat (1) mencakup:
+                huruf a: perencanaan teknis Jalan;
+                huruf b: perencanaan teknis jembatan; dan
+                huruf c: perencanaan teknis terowongan.
+            ayat 3: Perencanaan teknis sebagaimana dimaksud pada ayat (1) diselenggarakan dengan mempertimbangkan:
+                huruf a: kekuatan dan stabilitas;
+                huruf b: kemudahan dalam pelaksanaan;
+                huruf c: kenyamanan dan keselamatan;
+                huruf d: keekonomisan; dan
+                huruf e: estetika.
+            ayat 4: Dokumen rencana teknis sebagaimana dimaksud pada ayat (1) disusun oleh perencana teknis dan disetujui oleh penyelenggara Jalan sesuai dengan kewenangannya atau pejabat yang ditunjuk.
+        pasal 47
+            ayat 1: Perencanaan Teknis Jalan sebagaimana dimaksud dalam Pasal 46 ayat (3) huruf a minimal memenuhi ketentuan teknis mengenai:
+                huruf a: ruang manfaat Jalan, ruang milik Jalan, dan ruang pengawasan Jalan;
+                huruf b: dimensi Jalan;
+                huruf c: muatan sumbu terberat, volume lalu lintas, dan kapasitas;
+                huruf d: persyaratan geometrik Jalan;
+                huruf e: konstruksi Jalan;
+                huruf f: konstruksi bangunan pelengkap;
+                huruf g: perlengkapan Jalan;
+                huruf h: ruang bebas; dan
+                huruf i: kelestarian lingkungan hidup.
+            ayat 2: Perencanaan Teknis Jalan sebagaimana dimaksud pada ayat (1) dilakukan dalam 2 (dua) tahap, yaitu:
+                huruf a: perencanaan teknis awal; dan
+                huruf b: perencanaan teknis akhir.
+            ayat 3: Perencanaan teknis awal sebagaimana dimaksud pada ayat (2) huruf a tidak dilakukan dalam preservasi Jalan.
+        pasal 48
+            ayat 1: Perencanaan teknis awal sebagaimana dimaksud pada Pasal 47 ayat (2) huruf a merupakan proses penetapan alternatif alinemen dan pemilihan alinemen terbaik Jalan yang akan dibangun.
+            ayat 2: Perencanaan teknis awal sebagaimana dimaksud pada ayat (1) terdiri atas:
+                huruf a: prastudi kelayakan; dan
+                huruf b: studi kelayakan.
+            ayat 3: Prastudi kelayakan sebagaimana dimaksud pada ayat (2) huruf a tidak dilakukan pada pekerjaan dengan kriteria:
+                huruf a: bukan merupakan proyek strategis;
+                huruf b: mempunyai ketidakpastian dan risiko yang rendah;
+                huruf c: memiliki alternatif rute terbatas;
+                huruf d: tidak memerlukan pemrioritasan pelaksanaan karena keterbatasan dana; dan/atau e. tidak disyaratkan oleh pemberi kerja.
+            ayat 4: Prastudi kelayakan sebagaimana dimaksud pada ayat (2) huruf a meliputi:
+                huruf a: perumusan kebijakan perencanaan yang meliputi kajian terhadap kebijakan dan sasaran perencanaan, lingkungan dan penataan ruang, serta pengadaan tanah;
+                huruf b: pengkajian terhadap kondisi eksisting pada wilayah studi, termasuk melakukan kajian terhadap dampak yang mungkin timbul untuk setiap solusi yang diusulkan;
+                huruf c: pengambilan data fisik, ekonomi, dan lingkungan serta identifikasi lokasi rawan bencana; dan
+                huruf d: pengembangan dan perbandingan alternatif koridor untuk dipilih.
+            ayat 5: Studi kelayakan Jalan sebagaimana dimaksud pada ayat (2) huruf b meliputi:
+                huruf a: perumusan kebijakan perencanaan yang meliputi kajian terhadap kebijakan dan sasaran perencanaan, lingkungan dan penataan ruang, serta pengadaan tanah;
+                huruf b: pengkajian terhadap kondisi eksisting pada wilayah studi, termasuk melakukan kajian terhadap dampak yang mungkin timbul untuk setiap solusi yang diusulkan;
+                huruf c: pengambilan data fisik, ekonomi, dan lingkungan serta identifikasi lokasi rawan bencana;
+                huruf d: prediksi hasil analisis kuantitatif untuk setiap alternatif solusi;
+                huruf e: pengkajian penggunaan alternatif teknologi dan standar yang berkaitan dengan kebutuhan proyek; dan
+                huruf f: perbandingan alternatif solusi pada koridor yang terpilih pada prastudi kelayakan.
+        pasal 49
+            ayat 1: Perencanaan teknis akhir (final engineering design) sebagaimana dimaksud dalam Pasal 47 ayat (2) huruf b merupakan kegiatan penyusunan dokumen rencana teknis terperinci yang didasarkan atas hasil studi komparasi alternatif solusi pada koridor yang terpilih.
+            ayat 2: Perencanaan teknis akhir sebagaimana dimaksud pada ayat (1), terdiri atas:
+                huruf a: dokumen rencana teknis terperinci yang telah memperhitungkan metode pelaksanaan dan spesifikasi;
+                huruf b: audit keselamatan Jalan tahap perencanaan teknis; dan
+                huruf c: integrasi hasil audit keselamatan Jalan tahap perencanaan teknis dan hasil kajian lingkungan dengan perencanaan teknis terperinci yang menjadi rencana teknis akhir.
+        pasal 50
+            ayat 1: Perencanaan teknis jembatan sebagaimana dimaksud dalam Pasal 46 ayat (2) huruf b minimal memenuhi persyaratan teknis Jalan dan ketentuan teknis lain mengenai:
+                huruf a: ruang bebas;
+                huruf b: dimensi Jalan pada jembatan;
+                huruf c: beban rencana;
+                huruf d: persyaratan geometrik Jalan pada jembatan;
+                huruf e: konstruksi jembatan;
+                huruf f: perlengkapan Jalan pada jembatan; dan
+                huruf g: kelestarian lingkungan hidup.
+            ayat 2: Perencanaan teknis jembatan sebagaimana dimaksud pada ayat (1) diatur secara terperinci dalam ketentuan teknis yang ditetapkan oleh Penyelenggara Jalan.
+        pasal 51
+            ayat 1: Perencanaan teknis terowongan minimal memenuhi ketentuan teknis pengoperasian dan pemeliharaan, keselamatan, serta penanganan keadaan darurat.
+            ayat 2: Perencanaan teknis terowongan sebagaimana dimaksud pada ayat (1) minimal memenuhi persyaratan teknis Jalan dan ketentuan teknis lain mengenai:
+                huruf a: ruang bebas;
+                huruf b: dimensi Jalan pada terowongan;
+                huruf c: beban rencana;
+                huruf d: persyaratan geometrik Jalan pada terowongan;
+                huruf e: konstruksi Jalan pada terowongan;
+                huruf f: konstruksi terowongan;
+                huruf g: perlengkapan Jalan pada terowongan; dan
+                huruf h: kelestarian lingkungan hidup.
+            ayat 3: Perencanaan teknis terowongan sebagaimana dimaksud pada ayat (1) diatur secara terperinci dalam ketentuan teknis yang ditetapkan oleh Penyelenggara Jalan.
+        pasal 52
+            ayat 1: Perencanaan teknis Preservasi Jalan meliputi:
+                huruf a: perencanaan Preservasi jalan; dan
+                huruf b: perencanaan Preservasi jembatan.
+            ayat 2: Perencanaan Preservasi jalan sebagaimana dimaksud pada ayat (1) huruf a meliputi:
+                huruf a: rehabilitasi; dan
+                huruf b: rekonstruksi.
+            ayat 3: Perencanaan Preservasi jembatan sebagaimana dimaksud pada ayat (1) huruf b meliputi:
+                huruf a: pemeliharaan berkala; dan
+                huruf b: rehabilitasi.
+            ayat 4: Perencanaan teknis Preservasi Jalan sebagaimana dimaksud pada ayat (1) diatur secara terperinci dalam ketentuan teknis yang ditetapkan oleh Penyelenggara Jalan.
+    bab IV - KRITERIA PERENCANAAN TEKNIS
+        pasal 53
+            ayat 1: Kriteria Perencanaan Teknis mencakup:
+                huruf a: kriteria perencanaan teknis Jalan baru; dan
+                huruf b: kriteria perencanaan teknis Preservasi Jalan.
+            ayat 2: Dalam hal keterbatasan biaya, Persyaratan Teknis Jalan dalam Kriteria Perencanaan Teknis pembangunan Jalan baru dapat dilaksanakan secara bertahap.
+            ayat 3: Persyaratan Teknis Jalan dalam Kriteria Perencanaan Teknis Preservasi Jalan disesuaikan dengan kebutuhan dan sumber daya.
+            ayat 4
+        pasal 54
+            ayat 1: Kriteria Perencanaan Teknis Jalan pada Pembangunan Jalan Baru sebagaimana dimaksud dalam Pasal 53 ayat (1) huruf a terdiri atas:
+                huruf a: fungsi Jalan;
+                huruf b: kelas Jalan;
+                huruf c: ruang manfaat Jalan, ruang milik Jalan, dan ruang pengawasan Jalan;
+                huruf d: dimensi Jalan;
+                huruf e: muatan sumbu terberat, volume lalu lintas, dan kapasitas Jalan;
+                huruf f: persyaratan geometrik Jalan;
+                huruf g: konstruksi Jalan;
+                huruf h: konstruksi Bangunan Pelengkap Jalan;
+                huruf i: perlengkapan Jalan;
+                huruf j: ruang bebas Jalan; dan
+                huruf k: kelestarian lingkungan hidup.
+            ayat 2: Kriteria Perencanaan Teknis sebagaimana dimaksud pada ayat (1) untuk setiap pelaksanaan Perencanaan Teknis Jalan harus ditetapkan pada awal perencanaan sesuai dengan maksud dan tujuan pembangunan Jalan.
+                huruf a: Jalan arteri primer;
+                huruf b: Jalan kolektor primer;
+                huruf c: Jalan lokal primer;
+                huruf d: Jalan lingkungan primer;
+                huruf e: Jalan arteri sekunder;
+                huruf f: Jalan kolektor sekunder;
+                huruf g: Jalan lokal sekunder; dan
+                huruf h: Jalan lingkungan sekunder.
+        pasal 56
+            ayat 1: Kelas Jalan sebagaimana dimaksud dalam Pasal 54 ayat (1) huruf b terdiri atas:
+                huruf a: spesifikasi penyediaan prasarana Jalan; dan
+                huruf b: kelas penggunaan Jalan.
+            ayat 2: Kelas Jalan sesuai dengan spesifikasi penyediaan prasarana Jalan sebagaimana dimaksud pada ayat (1) huruf a ditetapkan 1 (satu) dari 4 (empat) kategori spesifikasi penyediaan prasarana Jalan yang sesuai dengan tujuan perencanaan:
+                huruf a: Jalan bebas hambatan;
+                huruf b: Jalan raya;
+                huruf c: Jalan sedang; dan
+                huruf d: Jalan kecil.
+            ayat 3: Kelas Jalan sesuai kelas penggunaan Jalan sebagaimana dimaksud pada ayat (1) huruf b dipilih 1 (satu) dari 4 (empat) kelas penggunaan Jalan sesuai dengan tujuan perencanaan:
+                huruf a: Jalan kelas I;
+                huruf b: Jalan kelas II;
+                huruf c: Jalan kelas III; dan
+                huruf d: Jalan kelas khusus.
+        pasal 58
+            ayat 1: Dimensi Jalan sebagaimana dimaksud dalam Pasal 54 ayat (1) huruf d merupakan ukuran lebar bagian-bagian Jalan yang terdiri atas:
+                huruf a: jalur lalu lintas;
+                huruf b: bahu Jalan; dan/atau c. median.
+            ayat 2: Ukuran lebar bagian-bagian Jalan sebagaimana dimaksud pada ayat (1) ditetapkan sesuai dengan Tabel Persyaratan Teknis Jalan sebagaimana termuat dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+        pasal 60
+            ayat 1: Volume lalu lintas sebagaimana dimaksud dalam Pasal 54 ayat (1) huruf e dibedakan menjadi:
+                huruf a: volume lalu lintas untuk perencanaan geometrik Jalan; dan
+                huruf b: volume lalu lintas untuk perencanaan perkerasan Jalan.
+            ayat 2: Volume lalu lintas untuk perencanaan geometrik Jalan sebagaimana dimaksud pada ayat (1) huruf a merupakan volume lalu lintas harian rata-rata tahunan kendaraan tahun berjalan yang diproyeksikan sesuai dengan umur rencana dan faktor pertumbuhan lalu lintas.
+            ayat 3: Volume lalu lintas untuk perencanaan perkerasan Jalan sebagaimana dimaksud pada ayat (1) huruf b merupakan jumlah kumulatif beban lalu lintas kendaraan yang diperkirakan akan menggunakan Jalan sesuai dengan umur rencana.
+        pasal 62
+            ayat 1: Persyaratan geometrik Jalan sebagaimana dimaksud dalam Pasal 54 ayat (1) huruf f ditentukan berdasarkan:
+                huruf a: fungsi Jalan;
+                huruf b: kelas Jalan;
+                huruf c: kecepatan rencana; dan
+                huruf d: volume lalu lintas rencana.
+            ayat 2: Persyaratan geometrik Jalan sebagaimana dimaksud pada ayat (1) menjadi dasar penetapan Kriteria Perencanaan Teknis lainnya yang terdiri atas:
+                huruf a: tipe Jalan berdasarkan spesifikasi penyediaan prasarana Jalan;
+                huruf b: jarak pandang henti;
+                huruf c: lebar badan Jalan;
+                huruf d: kelandaian melintang;
+                huruf e: panjang bagian Jalan yang lurus paling besar;
+                huruf f: panjang radius tikungan paling kecil;
+                huruf g: besar superelevasi paling tinggi;
+                huruf h: besar tanjakan/turunan (grade) paling besar; dan
+                huruf i: panjang kurva vertikal paling kecil.
+        pasal 63
+            ayat 1: Konstruksi Jalan sebagaimana dimaksud dalam Pasal 54 ayat (1) huruf g terdiri atas:
+                huruf a: beban lalu lintas rencana; dan
+                huruf b: konstruksi perkerasan Jalan yang meliputi:
+            ayat 2: Dalam hal diperlukan, konstruksi perkerasan Jalan dapat dilengkapi dengan lapis penopang yang berada di antara tanah dasar dan lapis fondasi.
+            ayat 3: Konstruksi perkerasan Jalan sebagaimana dimaksud pada ayat (1) huruf b berkekuatan sesuai dengan beban lalu lintas rencana.
+                huruf a: beban rencana; dan
+                huruf b: kekuatan konstruksi bangunan yang sesuai dengan karakteristik, spesifikasi, struktur, dan pemeliharaannya.
+        pasal 66
+            ayat 1: Ruang bebas Jalan sebagaimana dimaksud dalam Pasal 54 ayat (1) huruf j merupakan ruang di sisi Jalan yang bebas dari segala bangunan, penghalang, atau bentuk muka tanah yang berpotensi membahayakan pengguna Jalan dan kendaraan, sehingga memenuhi aspek keselamatan.
+            ayat 2: Penerapan ruang bebas Jalan mempertimbangkan ketersediaan lahan.
+            ayat 3: Ruang bebas Jalan diukur mulai dari marka garis tepi terluar jalur lalu lintas dengan lebar sesuai dengan kecepatan rencana.
+            ayat 4: Penerapan ruang bebas Jalan berlaku pada daerah jurang atau lereng dengan kedalaman lebih dari 5 (lima) meter.
+        pasal 67
+            ayat 1: Kelestarian lingkungan hidup sebagaimana dimaksud dalam Pasal 54 ayat (1) huruf k merupakan kegiatan kajian lingkungan yang menghasilkan rekomendasi pengelolaan lingkungan hidup, yang dituangkan dalam dokumen lingkungan hidup.
+            ayat 2: Dokumen lingkungan hidup sebagaimana dimaksud pada ayat (1) dapat berupa:
+                huruf a: Analisis Mengenai Dampak Lingkungan Hidup (AMDAL);
+            ayat 3: Dalam hal pembangunan Jalan di kawasan hutan, selain menyediakan dokumen lingkungan sebagaimana dimaksud pada ayat (2), perencanaan teknis juga mempertimbangkan rekomendasi teknis yang dikeluarkan oleh instansi berwenang terkait dengan penyediaan prasarana pelindungan satwa dan tumbuhan yang dilindungi.
+        pasal 68
+            ayat 1: Kriteria Perencanaan Teknis Preservasi Jalan diberlakukan untuk rehabilitasi dan rekonstruksi perkerasan lentur serta rekonstruksi perkerasan kaku.
+            ayat 2: Kriteria Perencanaan Teknis untuk rehabilitasi Jalan perkerasan lentur sebagaimana dimaksud pada ayat (1) meliputi:
+                huruf a: beban lalu lintas;
+                huruf b: nilai kerataan permukaan (IRI);
+                huruf c: nilai lendutan; dan
+                huruf d: umur rencana.
+            ayat 3: Kriteria Perencanaan Teknis untuk rekonstruksi Jalan perkerasan lentur dan perkerasan kaku sebagaimana dimaksud pada ayat (1) meliputi:
+                huruf a: beban lalu lintas;
+                huruf b: daya dukung tanah dasar; dan
+                huruf c: umur rencana.
+        pasal 69
+            ayat 1: Kriteria Perencanaan Teknis Preservasi jembatan diberlakukan untuk pemeliharaan berkala dan rehabilitasi.
+            ayat 2: Kriteria Perencanaan Teknis untuk Preservasi jembatan meliputi:
+                huruf a: kondisi elemen jembatan; dan
+                huruf b: pengujian elemen struktur jembatan.
+            ayat 3: Selain Kriteria Perencanaan Teknis Preservasi jembatan sebagaimana dimaksud pada ayat (2), rehabilitasi jembatan direncanakan dengan mempertimbangkan pengembalian kondisi elemen jembatan untuk mencapai umur layan.
+    bab V - KETENTUAN LAIN-LAIN
+        pasal 70
+            ayat 1: Dalam hal suatu Perencanaan Teknis Jalan tidak dapat memenuhi Persyaratan Teknis Jalan yang ditetapkan dalam Peraturan Menteri ini, maka Perencanaan Teknis Jalan dapat dilakukan atas persetujuan Penyelenggara Jalan dengan tetap mempertimbangkan keselamatan, keamanan, dan kelancaran pengguna Jalan.
+            ayat 2: Ketentuan lebih lanjut mengenai Persyaratan Teknis Jalan dan Kriteria Perencanaan Teknis Jalan, sebagaimana dimaksud dalam Pasal 37, Pasal 38, Pasal 39, Pasal 40, Pasal 41, Pasal 42, dan Pasal 43 diatur dalam pedoman yang ditetapkan oleh unit organisasi yang melaksanakan tugas di bidang Jalan dan jembatan.
+            ayat 3: Ketentuan Persyaratan Teknis Jalan dan Kriteria Perencanaan Teknis Jalan sebagaimana dimaksud dalam Pasal 4, Pasal 5, Pasal 6, Pasal 7, Pasal 8, Pasal 10, Pasal 11, Pasal 12, Pasal 14, Pasal 57, dan Pasal 58 termuat dalam Lampiran yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+    bab VI - KETENTUAN PERALIHAN
+    huruf a: Perencanaan Teknis Jalan yang masih berlangsung dan/atau belum sampai pada tahap pelaksanaan konstruksi mengikuti ketentuan dalam Peraturan Menteri ini.
+    huruf b: Perencanaan Teknis Jalan yang sudah sampai pada tahap pelaksanaan konstruksi tetap mengikuti ketentuan dalam Peraturan Menteri Pekerjaan Umum Nomor 19/PRT/M/2011 tentang Persyaratan Teknis Jalan dan Kriteria Perencanaan Teknis Jalan (Berita Negara Republik Indonesia Tahun 2011 Nomor 900).
+    bab VII - KETENTUAN PENUTUP
